@@ -1,0 +1,3240 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="GDAL 1.6.3">
+
+
+
+<rte name= "Davao-Agusan National Highway(Panabo)">
+        <rtept lat="7.30257" lon="125.68139"/>
+        <rtept lat="7.30248" lon="125.68135"/>
+</rte>
+
+
+
+<rte name= "Davao-Agusan National Highway(Panabo)">
+        <rtept lat="7.30248" lon="125.68135"/>
+        <rtept lat="7.30138" lon="125.68088"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Panabo)">
+        <rtept lat="7.30138" lon="125.68088"/>
+        <rtept lat="7.30095" lon="125.68070"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Panabo)">
+        <rtept lat="7.30095" lon="125.68070"/>
+        <rtept lat="7.30029" lon="125.68042"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Panabo)">
+        <rtept lat="7.30029" lon="125.68042"/>
+        <rtept lat="7.30017" lon="125.68036"/>
+</rte>
+
+
+
+<rte name= "Davao-Agusan National Highway(Panabo)">
+        <rtept lat="7.30017" lon="125.68036"/>
+        <rtept lat="7.29985" lon="125.68023"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Panabo)">
+        <rtept lat="7.29985" lon="125.68023"/>
+        <rtept lat="7.29916" lon="125.67993"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Panabo)">
+        <rtept lat="7.29916" lon="125.67993"/>
+        <rtept lat="7.29884" lon="125.67980"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Panabo)">
+        <rtept lat="7.29884" lon="125.67980"/>
+        <rtept lat="7.29820" lon="125.67952"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Panabo)">
+        <rtept lat="7.29820" lon="125.67952"/>
+        <rtept lat="7.29765" lon="125.67929"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Panabo)">
+        <rtept lat="7.29765" lon="125.67929"/>
+        <rtept lat="7.29747" lon="125.67921"/>
+</rte>
+
+
+
+<rte name= "Davao-Agusan National Highway(Panabo)">
+        <rtept lat="7.29747" lon="125.67921"/>
+        <rtept lat="7.29654" lon="125.67881"/>
+        <rtept lat="7.29598" lon="125.67858"/>
+        <rtept lat="7.29543" lon="125.67834"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Panabo)">
+        <rtept lat="7.29543" lon="125.67834"/>
+        <rtept lat="7.29476" lon="125.67805"/>
+        <rtept lat="7.29407" lon="125.67776"/>
+        <rtept lat="7.29292" lon="125.67727"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Panabo)">
+        <rtept lat="7.29292" lon="125.67727"/>
+        <rtept lat="7.29229" lon="125.67700"/>
+        <rtept lat="7.29126" lon="125.67656"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Panabo)">
+        <rtept lat="7.29126" lon="125.67656"/>
+        <rtept lat="7.29028" lon="125.67614"/>
+        <rtept lat="7.28986" lon="125.67596"/>
+</rte>
+
+
+
+<rte name= "Davao-Agusan National Highway(Panabo)">
+        <rtept lat="7.28986" lon="125.67596"/>
+        <rtept lat="7.28928" lon="125.67571"/>
+        <rtept lat="7.28747" lon="125.67494"/>
+        <rtept lat="7.28685" lon="125.67469"/>
+</rte>
+
+
+
+<rte name= "Davao-Agusan National Highway(Panabo)">
+        <rtept lat="7.28685" lon="125.67469"/>
+        <rtept lat="7.28566" lon="125.67419"/>
+        <rtept lat="7.28554" lon="125.67419"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Panabo)">
+        <rtept lat="7.28554" lon="125.67419"/>
+        <rtept lat="7.28530" lon="125.67409"/>
+</rte>
+
+
+
+<rte name= "Davao-Agusan National Highway(Panabo)">
+        <rtept lat="7.28530" lon="125.67409"/>
+        <rtept lat="7.28456" lon="125.67378"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Panabo)">
+        <rtept lat="7.28456" lon="125.67378"/>
+        <rtept lat="7.28332" lon="125.67326"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Panabo)">
+        <rtept lat="7.28332" lon="125.67326"/>
+        <rtept lat="7.28189" lon="125.67266"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Panabo)">
+        <rtept lat="7.28189" lon="125.67266"/>
+        <rtept lat="7.28183" lon="125.67258"/>
+        <rtept lat="7.28025" lon="125.67190"/>
+        <rtept lat="7.27942" lon="125.67154"/>
+        <rtept lat="7.27867" lon="125.67122"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Panabo)">
+        <rtept lat="7.27867" lon="125.67122"/>
+        <rtept lat="7.27814" lon="125.67099"/>
+        <rtept lat="7.27809" lon="125.67097"/>
+        <rtept lat="7.27760" lon="125.67077"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Panabo)">
+        <rtept lat="7.27760" lon="125.67077"/>
+        <rtept lat="7.27594" lon="125.67007"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Panabo)">
+        <rtept lat="7.27594" lon="125.67007"/>
+        <rtept lat="7.27586" lon="125.67003"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Panabo)">
+        <rtept lat="7.27586" lon="125.67003"/>
+        <rtept lat="7.27527" lon="125.66978"/>
+        <rtept lat="7.27468" lon="125.66953"/>
+</rte>
+
+
+
+<rte name= "Davao-Agusan National Highway(Panabo)">
+        <rtept lat="7.27468" lon="125.66953"/>
+        <rtept lat="7.27196" lon="125.66838"/>
+        <rtept lat="7.27134" lon="125.66812"/>
+        <rtept lat="7.27085" lon="125.66793"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Panabo)">
+        <rtept lat="7.27085" lon="125.66793"/>
+        <rtept lat="7.27045" lon="125.66777"/>
+        <rtept lat="7.26986" lon="125.66752"/>
+        <rtept lat="7.26976" lon="125.66752"/>
+        <rtept lat="7.26954" lon="125.66743"/>
+        <rtept lat="7.26928" lon="125.66730"/>
+
+        <rtept lat="7.26896" lon="125.66712"/>
+        <rtept lat="7.26872" lon="125.66694"/>
+        <rtept lat="7.26866" lon="125.66687"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Panabo)">
+        <rtept lat="7.26866" lon="125.66687"/>
+        <rtept lat="7.26849" lon="125.66669"/>
+        <rtept lat="7.26832" lon="125.66649"/>
+        <rtept lat="7.26817" lon="125.66629"/>
+        <rtept lat="7.26800" lon="125.66605"/>
+        <rtept lat="7.26759" lon="125.66539"/>
+        <rtept lat="7.26713" lon="125.66468"/>
+</rte>
+
+
+   <rte name= "Davao-Agusan National Highway(Lasang)">
+        <rtept lat="7.26713" lon="125.66468"/>
+        <rtept lat="7.26708" lon="125.66461"/>
+        <rtept lat="7.26691" lon="125.66434"/>
+    </rte>
+
+
+    <rte name= "Davao-Agusan National Highway(Lasang)">
+        <rtept lat="7.26691" lon="125.66434"/>
+        <rtept lat="7.26487" lon="125.66119"/>
+        <rtept lat="7.25913" lon="125.65249"/>
+        <rtept lat="7.25859" lon="125.65193"/>
+    </rte>
+
+
+
+    <rte name= "Davao-Agusan National Highway(Lasang)">
+        <rtept lat="7.25859" lon="125.65193"/>
+        <rtept lat="7.25794" lon="125.65155"/>
+        <rtept lat="7.25521" lon="125.65083"/>
+    </rte>
+
+
+    <rte name= "Davao-Agusan National Highway(Lasang)">
+        <rtept lat="7.25521" lon="125.65083"/>
+        <rtept lat="7.25318" lon="125.65029"/>
+        <rtept lat="7.24330" lon="125.64768"/>
+    </rte>
+
+
+    <rte name= "Davao-Agusan National Highway(Lasang)">
+        <rtept lat="7.24330" lon="125.64768"/>
+        <rtept lat="7.24232" lon="125.64742"/>
+        <rtept lat="7.24076" lon="125.64701"/>
+    </rte>
+
+
+    <rte name= "Davao-Agusan National Highway(Lasang)">
+        <rtept lat="7.24076" lon="125.64701"/>
+        <rtept lat="7.23931" lon="125.64664"/>
+    </rte>
+
+
+    <rte name= "Davao-Agusan National Highway(Lasang)">
+        <rtept lat="7.23931" lon="125.64664"/>
+        <rtept lat="7.23865" lon="125.64641"/>
+        <rtept lat="7.23833" lon="125.64622"/>
+        <rtept lat="7.23804" lon="125.64598"/>
+        <rtept lat="7.23802" lon="125.64594"/>
+        <rtept lat="7.23781" lon="125.64565"/>
+    </rte>
+
+
+    <rte name= "Davao-Agusan National Highway(Lasang)">
+        <rtept lat="7.23781" lon="125.64565"/>
+         <rtept lat="7.23762" lon="125.64517"/>
+        <rtept lat="7.23734" lon="125.64433"/>
+        <rtept lat="7.23718" lon="125.64385"/>
+    </rte>
+
+
+
+<rte name= "Davao-Agusan National Highway(Bunawan)">
+        <rtept lat="7.23718" lon="125.64385"/>
+        <rtept lat="7.23711" lon="125.64362"/>
+        <rtept lat="7.23699" lon="125.64330"/>
+        <rtept lat="7.23676" lon="125.64289"/>
+        <rtept lat="7.23643" lon="125.64255"/>
+        <rtept lat="7.23607" lon="125.64237"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Bunawan)">
+        <rtept lat="7.23607" lon="125.64237"/>
+        <rtept lat="7.23595" lon="125.64230"/>
+        <rtept lat="7.23580" lon="125.64226"/>
+</rte>
+
+
+
+<rte name= "Davao-Agusan National Highway(Bunawan)">
+        <rtept lat="7.23580" lon="125.64226"/>
+        <rtept lat="7.23389" lon="125.64166"/>
+</rte>
+
+
+
+<rte name= "Davao-Agusan National Highway(Bunawan)">
+        <rtept lat="7.23389" lon="125.64166"/>
+        <rtept lat="7.23297" lon="125.64138"/>
+        <rtept lat="7.23162" lon="125.64095"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Bunawan)">
+        <rtept lat="7.23162" lon="125.64095"/>
+        <rtept lat="7.23127" lon="125.64084"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Bunawan)">
+        <rtept lat="7.23127" lon="125.64084"/>
+        <rtept lat="7.23096" lon="125.64074"/>
+        <rtept lat="7.22912" lon="125.64018"/>
+        <rtept lat="7.22833" lon="125.63996"/>
+        <rtept lat="7.22767" lon="125.63989"/>
+        <rtept lat="7.22724" lon="125.63996"/>
+        <rtept lat="7.22552" lon="125.64054"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Bunawan)">
+        <rtept lat="7.22552" lon="125.64054"/>
+        <rtept lat="7.22481" lon="125.64080"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Bunawan)">
+        <rtept lat="7.22481" lon="125.64080"/>
+        <rtept lat="7.22423" lon="125.64101"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Bunawan)">
+        <rtept lat="7.22423" lon="125.64101"/>
+        <rtept lat="7.22384" lon="125.64116"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Bunawan)">
+        <rtept lat="7.22384" lon="125.64116"/>
+        <rtept lat="7.22261" lon="125.64161"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Bunawan)">
+        <rtept lat="7.22261" lon="125.64161"/>
+        <rtept lat="7.21695" lon="125.64363"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Bunawan)">
+        <rtept lat="7.21695" lon="125.64363"/>
+        <rtept lat="7.21652" lon="125.64378"/>
+        <rtept lat="7.21541" lon="125.64410"/>
+        <rtept lat="7.21485" lon="125.64422"/>
+        <rtept lat="7.21372" lon="125.64445"/>
+        <rtept lat="7.21259" lon="125.64467"/>
+        <rtept lat="7.21153" lon="125.64489"/>
+</rte>
+
+
+
+<rte name= "Davao-Agusan National Highway(Bunawan)">
+        <rtept lat="7.21153" lon="125.64489"/>
+        <rtept lat="7.21080" lon="125.64503"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Bunawan)">
+        <rtept lat="7.21080" lon="125.64503"/>
+        <rtept lat="7.21042" lon="125.64510"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Bunawan)">
+        <rtept lat="7.21042" lon="125.64510"/>
+        <rtept lat="7.20953" lon="125.64527"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Bunawan)">
+        <rtept lat="7.20953" lon="125.64527"/>
+        <rtept lat="7.20648" lon="125.64586"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Bunawan)">
+        <rtept lat="7.20648" lon="125.64586"/>
+        <rtept lat="7.20636" lon="125.64589"/>
+</rte>
+
+
+
+<rte name= "Davao-Agusan National Highway(Bunawan)">
+        <rtept lat="7.20636" lon="125.64589"/>
+        <rtept lat="7.20403" lon="125.64635"/>
+</rte>
+
+
+
+
+<rte name= "Davao-Agusan National Highway(Tibungco)">
+        <rtept lat="7.20403" lon="125.64635"/>
+        <rtept lat="7.20003" lon="125.64718"/>
+        <rtept lat="7.19880" lon="125.64735"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Tibungco)">
+        <rtept lat="7.19880" lon="125.64735"/>
+        <rtept lat="7.19712" lon="125.64755"/>       
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Tibungco)">
+        <rtept lat="7.19712" lon="125.64755"/>       
+        <rtept lat="7.19537" lon="125.64774"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Tibungco)">     
+        <rtept lat="7.19537" lon="125.64774"/>
+        <rtept lat="7.19490" lon="125.64779"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Tibungco)">     
+        <rtept lat="7.19490" lon="125.64779"/>
+        <rtept lat="7.19403" lon="125.64791"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Tibungco)">     
+        <rtept lat="7.19403" lon="125.64791"/>
+        <rtept lat="7.19382" lon="125.64794"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Tibungco)"> 
+        <rtept lat="7.19382" lon="125.64794"/>
+        <rtept lat="7.19295" lon="125.64804"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Tibungco)"> 
+        <rtept lat="7.19295" lon="125.64804"/>
+        <rtept lat="7.19242" lon="125.64813"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Tibungco)"> 
+        <rtept lat="7.19242" lon="125.64813"/>
+        <rtept lat="7.19235" lon="125.64815"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Tibungco)"> 
+        <rtept lat="7.19235" lon="125.64815"/>
+        <rtept lat="7.19204" lon="125.64821"/>
+        <rtept lat="7.19166" lon="125.64829"/>
+        <rtept lat="7.19157" lon="125.64832"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Tibungco)"> 
+        <rtept lat="7.19157" lon="125.64832"/>
+        <rtept lat="7.19134" lon="125.64840"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Tibungco)"> 
+        <rtept lat="7.19134" lon="125.64840"/>
+        <rtept lat="7.19055" lon="125.64868"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Tibungco)"> 
+        <rtept lat="7.19055" lon="125.64868"/>
+        <rtept lat="7.19025" lon="125.64879"/>
+        <rtept lat="7.18963" lon="125.64901"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Tibungco)"> 
+        <rtept lat="7.18963" lon="125.64901"/>
+        <rtept lat="7.18901" lon="125.64923"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Tibungco)"> 
+        <rtept lat="7.18901" lon="125.64923"/>
+        <rtept lat="7.18787" lon="125.64964"/>
+        <rtept lat="7.18731" lon="125.64983"/>
+</rte>
+
+
+
+<rte name= "Davao-Agusan National Highway(Tibungco)"> 
+        <rtept lat="7.18731" lon="125.64983"/>
+        <rtept lat="7.18714" lon="125.64990"/>
+        <rtept lat="7.18704" lon="125.64993"/>
+        <rtept lat="7.18680" lon="125.65002"/>
+
+        <rtept lat="7.18611" lon="125.65026"/>
+        <rtept lat="7.18592" lon="125.65033"/>
+        <rtept lat="7.18583" lon="125.65036"/>
+        <rtept lat="7.18533" lon="125.65054"/>
+</rte>
+
+
+
+<rte name= "Davao-Agusan National Highway(Tibungco)"> 
+        <rtept lat="7.18533" lon="125.65054"/>
+        <rtept lat="7.18518" lon="125.65060"/>
+        <rtept lat="7.18505" lon="125.65064"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Tibungco)"> 
+        <rtept lat="7.18505" lon="125.65064"/>
+        <rtept lat="7.18498" lon="125.65067"/>
+        <rtept lat="7.18470" lon="125.65076"/>
+        <rtept lat="7.18457" lon="125.65080"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Tibungco)"> 
+        <rtept lat="7.18457" lon="125.65080"/>
+        <rtept lat="7.18442" lon="125.65086"/>
+        <rtept lat="7.18433" lon="125.65089"/>
+        <rtept lat="7.18425" lon="125.65092"/>
+        <rtept lat="7.18415" lon="125.65095"/>
+        <rtept lat="7.18409" lon="125.65098"/>
+</rte>
+
+
+
+<rte name= "Davao-Agusan National Highway(Tibungco)"> 
+        <rtept lat="7.18409" lon="125.65098"/>
+        <rtept lat="7.18395" lon="125.65102"/>
+        <rtept lat="7.18377" lon="125.65109"/>
+        <rtept lat="7.18347" lon="125.65120"/>
+        <rtept lat="7.18328" lon="125.65126"/>
+        <rtept lat="7.18264" lon="125.65151"/>
+        <rtept lat="7.18203" lon="125.65173"/>
+</rte>
+
+
+
+<rte name= "Davao-Agusan National Highway(Tibungco)"> 
+        <rtept lat="7.18203" lon="125.65173"/>
+        <rtept lat="7.18182" lon="125.65180"/>
+        <rtept lat="7.18148" lon="125.65193"/>
+        <rtept lat="7.18124" lon="125.65201"/>
+        <rtept lat="7.18065" lon="125.65221"/>
+        <rtept lat="7.18016" lon="125.65239"/>
+        <rtept lat="7.17937" lon="125.65269"/>
+        <rtept lat="7.17872" lon="125.65293"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Panacan)">
+        <rtept lat="7.17872" lon="125.65293"/>
+        <rtept lat="7.17781" lon="125.65323"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Panacan)">
+        <rtept lat="7.17781" lon="125.65323"/>
+        <rtept lat="7.17751" lon="125.65334"/>
+</rte>
+
+
+<rte name= "Ilang Bridge">
+        <rtept lat="7.17751" lon="125.65334"/>
+        <rtept lat="7.17719" lon="125.65345"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Panacan)">
+        <rtept lat="7.17719" lon="125.65345"/>
+        <rtept lat="7.17712" lon="125.65348"/>
+        <rtept lat="7.17613" lon="125.65379"/>
+</rte>
+
+
+
+<rte name= "Davao-Agusan National Highway(Panacan)">
+        <rtept lat="7.17613" lon="125.65379"/>
+        <rtept lat="7.17534" lon="125.65405"/>
+        <rtept lat="7.17387" lon="125.65450"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Panacan)">
+        <rtept lat="7.17387" lon="125.65450"/>
+        <rtept lat="7.17375" lon="125.65454"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Panacan)">
+        <rtept lat="7.17375" lon="125.65454"/>
+        <rtept lat="7.17307" lon="125.65475"/>
+        <rtept lat="7.17284" lon="125.65482"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Panacan)">
+        <rtept lat="7.17284" lon="125.65482"/>
+        <rtept lat="7.17186" lon="125.65512"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Panacan)">
+        <rtept lat="7.17186" lon="125.65512"/>
+        <rtept lat="7.17107" lon="125.65537"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Panacan)">
+        <rtept lat="7.17107" lon="125.65537"/>
+        <rtept lat="7.17049" lon="125.65555"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Panacan)">
+        <rtept lat="7.17049" lon="125.65555"/>
+        <rtept lat="7.16878" lon="125.65608"/>
+        <rtept lat="7.16872" lon="125.65610"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Panacan)">
+        <rtept lat="7.16872" lon="125.65610"/>
+        <rtept lat="7.16833" lon="125.65622"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Panacan)">
+        <rtept lat="7.16833" lon="125.65622"/>
+        <rtept lat="7.16745" lon="125.65650"/>
+        <rtept lat="7.16601" lon="125.65694"/>
+        <rtept lat="7.16565" lon="125.65704"/>
+        <rtept lat="7.16522" lon="125.65711"/>
+        <rtept lat="7.16492" lon="125.65714"/>
+        <rtept lat="7.16452" lon="125.65716"/>
+        <rtept lat="7.16340" lon="125.65719"/>
+        <rtept lat="7.16276" lon="125.65721"/>
+</rte>
+
+
+
+<rte name= "Davao-Agusan National Highway(Panacan)">
+        <rtept lat="7.16276" lon="125.65721"/>
+        <rtept lat="7.16149" lon="125.65726"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Panacan)">
+        <rtept lat="7.16149" lon="125.65726"/>
+        <rtept lat="7.15895" lon="125.65734"/>
+        <rtept lat="7.15707" lon="125.65737"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Panacan)">
+        <rtept lat="7.15707" lon="125.65737"/>
+        <rtept lat="7.15552" lon="125.65740"/>
+        <rtept lat="7.15525" lon="125.65743"/>
+        <rtept lat="7.15494" lon="125.65752"/>
+        <rtept lat="7.15444" lon="125.65773"/>
+</rte>
+
+
+
+<rte name= "Davao-Agusan National Highway(Panacan)">
+        <rtept lat="7.15444" lon="125.65773"/>
+        <rtept lat="7.15441" lon="125.65775"/>
+        <rtept lat="7.15388" lon="125.65799"/>
+        <rtept lat="7.15339" lon="125.65823"/>
+
+</rte>
+
+
+<rte name= "Panacan Bridge">
+        <rtept lat="7.15339" lon="125.65823"/>
+        <rtept lat="7.15317" lon="125.65833"/>
+</rte>
+
+
+
+<rte name= "Davao-Agusan National Highway(Panacan)">
+        <rtept lat="7.15317" lon="125.65833"/>
+        <rtept lat="7.15271" lon="125.65856"/>
+</rte> 
+
+
+<rte name= "Davao-Agusan National Highway(Panacan)">
+        <rtept lat="7.15271" lon="125.65856"/>
+        <rtept lat="7.15242" lon="125.65870"/>
+</rte> 
+
+
+<rte name= "Davao-Agusan National Highway(Panacan)">
+        <rtept lat="7.15242" lon="125.65870"/>
+        <rtept lat="7.15227" lon="125.65877"/>
+</rte> 
+
+
+
+<rte name= "Davao-Agusan National Highway(Panacan)">
+        <rtept lat="7.15227" lon="125.65877"/>
+        <rtept lat="7.15086" lon="125.65944"/>
+</rte> 
+
+
+<rte name= "Davao-Agusan National Highway(Panacan)">
+  <rtept lat="7.150860000000000" lon="125.659440000000000"/>
+  <rtept lat="7.150070000000000" lon="125.659820000000000"/>
+  <rtept lat="7.149740000000000" lon="125.659990000000000"/>
+  <rtept lat="7.148834800000000" lon="125.660365900000002"/>
+  <rtept lat="7.148338900000000" lon="125.660611399999993"/>
+</rte> 
+
+
+
+
+
+<rte name= "Davao-Agusan National Highway(Panacan)">
+  <rtept lat="7.148338900000000" lon="125.660611399999993"/>
+  <rtept lat="7.148049700000000" lon="125.660741599999994"/>
+  <rtept lat="7.147513300000000" lon="125.660942399999996"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Panacan)">
+  <rtept lat="7.147513300000000" lon="125.660942399999996"/>
+  <rtept lat="7.147344100000000" lon="125.660998599999999"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Panacan)">
+  <rtept lat="7.147344100000000" lon="125.660998599999999"/>
+  <rtept lat="7.146989700000000" lon="125.661085499999999"/>
+  <rtept lat="7.146175300000000" lon="125.661245600000001"/>
+  <rtept lat="7.145458600000000" lon="125.661307500000007"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Panacan)">
+  <rtept lat="7.145458600000000" lon="125.661307500000007"/>
+  <rtept lat="7.145175600000000" lon="125.661313699999994"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Panacan)">
+  <rtept lat="7.145175600000000" lon="125.661313699999994"/>
+  <rtept lat="7.144994200000000" lon="125.661321900000004"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Panacan)">
+  <rtept lat="7.144994200000000" lon="125.661321900000004"/>
+  <rtept lat="7.144709400000000" lon="125.661329899999998"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Panacan)">
+  <rtept lat="7.144709400000000" lon="125.661329899999998"/>
+  <rtept lat="7.144326700000000" lon="125.661342399999995"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Panacan)">
+  <rtept lat="7.144326700000000" lon="125.661342399999995"/>
+  <rtept lat="7.144292700000000" lon="125.661341600000000"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Panacan)">
+  <rtept lat="7.144292700000000" lon="125.661341600000000"/>
+  <rtept lat="7.144181800000000" lon="125.661344700000001"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Panacan)">
+  <rtept lat="7.144181800000000" lon="125.661344700000001"/>
+  <rtept lat="7.144022800000000" lon="125.661349200000004"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Panacan)">
+  <rtept lat="7.144022800000000" lon="125.661349200000004"/>
+  <rtept lat="7.143814800000000" lon="125.661355099999994"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Panacan)">
+  <rtept lat="7.143814800000000" lon="125.661355099999994"/>
+  <rtept lat="7.143227500000000" lon="125.661366200000003"/>
+</rte>
+
+
+
+<rte name= "Davao-Agusan National Highway(Panacan)">
+  <rtept lat="7.143227500000000" lon="125.661366200000003"/>
+  <rtept lat="7.142672000000000" lon="125.661383999999998"/>
+  <rtept lat="7.141822000000000" lon="125.661411099999995"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Panacan)">
+  <rtept lat="7.141822000000000" lon="125.661411099999995"/>
+  <rtept lat="7.141614500000000" lon="125.661416900000006"/>
+</rte>
+
+
+
+<rte name= "Davao-Agusan National Highway(Sasa)">
+  <rtept lat="7.141614500000000" lon="125.661416900000006"/>
+  <rtept lat="7.141563900000000" lon="125.661418400000002"/>
+</rte>
+
+
+
+<rte name= "Davao-Agusan National Highway(Sasa)">
+  <rtept lat="7.141563900000000" lon="125.661418400000002"/>
+  <rtept lat="7.141452100000000" lon="125.661421500000003"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Sasa)">
+  <rtept lat="7.141452100000000" lon="125.661421500000003"/>
+  <rtept lat="7.140744400000000" lon="125.661441400000001"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Sasa)">
+  <rtept lat="7.140744400000000" lon="125.661441400000001"/>
+  <rtept lat="7.140603200000000" lon="125.661445400000005"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Sasa)">
+  <rtept lat="7.140603200000000" lon="125.661445400000005"/>
+  <rtept lat="7.140206600000000" lon="125.661456500000000"/>
+  <rtept lat="7.140094700000000" lon="125.661459699999995"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Sasa)">
+  <rtept lat="7.140094700000000" lon="125.661459699999995"/>
+  <rtept lat="7.139796900000000" lon="125.661468099999993"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Sasa)">
+  <rtept lat="7.139796900000000" lon="125.661468099999993"/>
+  <rtept lat="7.139662000000000" lon="125.661471399999996"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Sasa)">
+  <rtept lat="7.139662000000000" lon="125.661471399999996"/>
+  <rtept lat="7.139640200000000" lon="125.661471899999995"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Sasa)">
+  <rtept lat="7.139640200000000" lon="125.661471899999995"/>
+  <rtept lat="7.139317600000000" lon="125.661481499999994"/>
+</rte>
+
+
+
+<rte name= "Davao-Agusan National Highway(Sasa)">
+  <rtept lat="7.139317600000000" lon="125.661481499999994"/>
+  <rtept lat="7.138899700000000" lon="125.661493300000004"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Sasa)">
+  <rtept lat="7.138899700000000" lon="125.661493300000004"/>
+  <rtept lat="7.138600900000000" lon="125.661501799999996"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Sasa)">
+  <rtept lat="7.138600900000000" lon="125.661501799999996"/>
+  <rtept lat="7.137577000000000" lon="125.661530499999998"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Sasa)">
+  <rtept lat="7.137577000000000" lon="125.661530499999998"/>
+  <rtept lat="7.137321600000000" lon="125.661537699999997"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Sasa)">
+  <rtept lat="7.137321600000000" lon="125.661537699999997"/>
+  <rtept lat="7.136854200000000" lon="125.661550800000001"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Sasa)">
+  <rtept lat="7.136854200000000" lon="125.661550800000001"/>
+  <rtept lat="7.136147900000000" lon="125.661570699999999"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Sasa)">
+  <rtept lat="7.136147900000000" lon="125.661570699999999"/>
+  <rtept lat="7.134794700000000" lon="125.661608700000002"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Sasa)">
+  <rtept lat="7.134794700000000" lon="125.661608700000002"/>
+  <rtept lat="7.134564500000000" lon="125.661618099999998"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Sasa)">
+  <rtept lat="7.134564500000000" lon="125.661618099999998"/>
+  <rtept lat="7.134040100000000" lon="125.661629899999994"/>
+  <rtept lat="7.131708800000000" lon="125.661695499999993"/>
+  <rtept lat="7.129544700000000" lon="125.661756400000002"/>
+  <rtept lat="7.127342500000000" lon="125.661818299999993"/>
+</rte>
+
+
+
+<rte name= "Davao-Agusan National Highway(Sasa)">
+  <rtept lat="7.127342500000000" lon="125.661818299999993"/>
+  <rtept lat="7.126824800000000" lon="125.661812999999995"/>
+  <rtept lat="7.126239300000000" lon="125.661759300000000"/>
+  <rtept lat="7.125850700000000" lon="125.661627899999999"/>
+  <rtept lat="7.125398300000000" lon="125.661429400000003"/>
+  <rtept lat="7.125015000000000" lon="125.661166600000001"/>
+  <rtept lat="7.124714300000000" lon="125.660941300000005"/>
+  <rtept lat="7.124413500000000" lon="125.660683800000001"/>
+</rte>
+
+
+
+<rte name= "Davao-Agusan National Highway(Sasa)">
+  <rtept lat="7.124413500000000" lon="125.660683800000001"/>
+  <rtept lat="7.122380000000000" lon="125.659017700000007"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Sasa)">
+  <rtept lat="7.122380000000000" lon="125.659017700000007"/>
+  <rtept lat="7.119658100000000" lon="125.656787600000001"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Sasa)">
+  <rtept lat="7.119658100000000" lon="125.656787600000001"/>
+  <rtept lat="7.119202500000000" lon="125.656423799999999"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Sasa)">
+  <rtept lat="7.119202500000000" lon="125.656423799999999"/>
+  <rtept lat="7.118893800000000" lon="125.656177299999996"/>
+</rte>
+
+
+
+<rte name= "Davao-Agusan National Highway(Sasa)">
+  <rtept lat="7.118893800000000" lon="125.656177299999996"/>
+  <rtept lat="7.117871900000000" lon="125.655324199999995"/>
+  <rtept lat="7.117780500000000" lon="125.655171699999997"/>
+  <rtept lat="7.117681600000000" lon="125.655091100000007"/>
+</rte>
+
+
+
+<rte name= "Davao-Agusan National Highway(Sasa)">
+  <rtept lat="7.117681600000000" lon="125.655091100000007"/>
+  <rtept lat="7.116844400000000" lon="125.654408200000006"/>
+  <rtept lat="7.116612400000000" lon="125.654218900000004"/>
+  <rtept lat="7.116449200000000" lon="125.654085800000004"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Sasa)">
+  <rtept lat="7.116449200000000" lon="125.654085800000004"/>
+  <rtept lat="7.115420500000000" lon="125.653247300000004"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Sasa)">
+  <rtept lat="7.115420500000000" lon="125.653247300000004"/>
+  <rtept lat="7.114985000000000" lon="125.652891400000001"/>
+</rte>
+
+
+
+<rte name= "Davao-Agusan National Highway(Sasa)">
+  <rtept lat="7.114985000000000" lon="125.652891400000001"/>
+  <rtept lat="7.114341300000000" lon="125.652366400000005"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Sasa)">
+  <rtept lat="7.114341300000000" lon="125.652366400000005"/>
+  <rtept lat="7.113249100000000" lon="125.651475500000004"/>
+</rte>
+
+
+
+<rte name="Davao-Agusan National Highway(Lanang)">
+  <rtept lat="7.113249100000000" lon="125.651475500000004"/>
+  <rtept lat="7.112740600000000" lon="125.651060700000002"/>
+</rte>
+
+
+
+<rte name="Davao-Agusan National Highway(Lanang)">
+  <rtept lat="7.112740600000000" lon="125.651060700000002"/>
+  <rtept lat="7.110668700000000" lon="125.649370599999997"/>
+</rte>
+
+
+<rte name="Davao-Agusan National Highway(Lanang)">
+  <rtept lat="7.110668700000000" lon="125.649370599999997"/>
+  <rtept lat="7.110374700000000" lon="125.649130900000003"/>
+</rte>
+
+
+<rte name="Davao-Agusan National Highway(Lanang)">
+  <rtept lat="7.110374700000000" lon="125.649130900000003"/>
+  <rtept lat="7.109894200000000" lon="125.648738899999998"/>
+</rte>
+
+
+<rte name="Davao-Agusan National Highway(Lanang)">
+  <rtept lat="7.109894200000000" lon="125.648738899999998"/>
+  <rtept lat="7.109879000000000" lon="125.648726499999995"/>
+</rte>
+
+
+<rte name="Davao-Agusan National Highway(Lanang)">
+  <rtept lat="7.109879000000000" lon="125.648726499999995"/>
+  <rtept lat="7.109760300000000" lon="125.648627399999995"/>
+</rte>
+
+
+<rte name="Davao-Agusan National Highway(Lanang)">
+  <rtept lat="7.109760300000000" lon="125.648627399999995"/>
+  <rtept lat="7.109431000000000" lon="125.648361100000002"/>
+</rte>
+
+
+
+<rte name="Davao-Agusan National Highway(Lanang)">
+  <rtept lat="7.109431000000000" lon="125.648361100000002"/>
+  <rtept lat="7.109129100000000" lon="125.648114800000002"/>
+</rte>
+
+
+<rte name="Davao-Agusan National Highway(Lanang)">
+  <rtept lat="7.109129100000000" lon="125.648114800000002"/>
+  <rtept lat="7.107273100000000" lon="125.646600899999996"/>
+</rte>
+
+
+<rte name="Davao-Agusan National Highway(Lanang)">
+  <rtept lat="7.107273100000000" lon="125.646600899999996"/>
+  <rtept lat="7.105207400000000" lon="125.644915999999995"/>
+  <rtept lat="7.104512600000000" lon="125.644349300000002"/>
+  <rtept lat="7.104293800000000" lon="125.644170700000004"/>
+</rte>
+
+
+<rte name="Davao-Agusan National Highway(Lanang)">
+  <rtept lat="7.104293800000000" lon="125.644170700000004"/>
+  <rtept lat="7.104150900000000" lon="125.644054199999999"/>
+</rte>
+
+
+<rte name= "Rafael Castillo Street">
+  <rtept lat="7.104150900000000" lon="125.644054199999999"/>
+  <rtept lat="7.104026800000000" lon="125.643958499999997"/>
+</rte> 
+
+
+<rte name= "Rafael Castillo Street">
+  <rtept lat="7.104026800000000" lon="125.643958499999997"/>
+  <rtept lat="7.103922600000000" lon="125.643898500000006"/>
+  <rtept lat="7.103844400000000" lon="125.643851499999997"/>
+  <rtept lat="7.103550100000000" lon="125.643611000000007"/>
+  <rtept lat="7.103490200000000" lon="125.643559100000004"/>
+</rte> 
+
+
+<rte name= "Rafael Castillo Street">
+  <rtept lat="7.103490200000000" lon="125.643559100000004"/>
+  <rtept lat="7.103305400000000" lon="125.643398800000000"/>
+</rte> 
+
+
+<rte name= "Rafael Castillo Street">
+  <rtept lat="7.103305400000000" lon="125.643398800000000"/>
+  <rtept lat="7.102625600000000" lon="125.642825700000003"/>
+</rte> 
+
+
+
+<rte name= "Rafael Castillo Street">
+  <rtept lat="7.102625600000000" lon="125.642825700000003"/>
+  <rtept lat="7.101860500000000" lon="125.642185499999997"/>
+</rte> 
+
+
+<rte name= "Rafael Castillo Street">
+  <rtept lat="7.101860500000000" lon="125.642185499999997"/>
+  <rtept lat="7.101391400000000" lon="125.641791499999997"/>
+</rte> 
+
+
+
+<rte name= "Rafael Castillo Street">
+  <rtept lat="7.101391400000000" lon="125.641791499999997"/>
+  <rtept lat="7.095140300000000" lon="125.636710600000001"/>
+</rte> 
+
+
+
+<rte name= "Rafael Castillo Street">
+  <rtept lat="7.095140300000000" lon="125.636710600000001"/>
+  <rtept lat="7.094462600000000" lon="125.636154800000000"/>
+</rte> 
+
+
+<rte name= "Rafael Castillo Street">
+  <rtept lat="7.094462600000000" lon="125.636154800000000"/>
+  <rtept lat="7.094305800000000" lon="125.636033299999994"/>
+</rte> 
+
+
+<rte name= "Rafael Castillo Street">
+  <rtept lat="7.094305800000000" lon="125.636033299999994"/>
+  <rtept lat="7.093046900000000" lon="125.635004400000000"/>
+</rte> 
+
+
+<rte name= "Rafael Castillo Street">
+  <rtept lat="7.093046900000000" lon="125.635004400000000"/>
+  <rtept lat="7.091606600000000" lon="125.633836599999995"/>
+</rte> 
+
+
+<rte name= "Rafael Castillo Street">
+  <rtept lat="7.091606600000000" lon="125.633836599999995"/>
+  <rtept lat="7.091587000000000" lon="125.633822800000004"/>
+</rte> 
+
+
+<rte name= "Rafael Castillo Street">
+  <rtept lat="7.091587000000000" lon="125.633822800000004"/>
+  <rtept lat="7.090526500000000" lon="125.632944699999996"/>
+  <rtept lat="7.090129200000000" lon="125.632582400000004"/>
+</rte> 
+
+
+
+<rte name= "Rafael Castillo Street">
+  <rtept lat="7.090129200000000" lon="125.632582400000004"/>
+  <rtept lat="7.090082200000000" lon="125.632533899999999"/>
+</rte> 
+
+
+
+<rte name= "Rafael Castillo Street">
+  <rtept lat="7.090082200000000" lon="125.632533899999999"/>
+  <rtept lat="7.089598400000000" lon="125.631978500000002"/>
+  <rtept lat="7.089026600000000" lon="125.631278699999996"/>
+</rte>
+
+
+
+<rte name= "Rafael Castillo Street">
+  <rtept lat="7.089026600000000" lon="125.631278699999996"/>
+  <rtept lat="7.088629800000000" lon="125.630799999999994"/>
+</rte>  
+
+
+<rte name= "Rafael Castillo Street">
+  <rtept lat="7.088629800000000" lon="125.630799999999994"/>
+  <rtept lat="7.088587100000000" lon="125.630746299999998"/>
+</rte>  
+
+
+
+<rte name= "Rafael Castillo Street">
+  <rtept lat="7.088587100000000" lon="125.630746299999998"/>
+  <rtept lat="7.087834800000000" lon="125.629859999999994"/>
+</rte>  
+
+
+<rte name= "Rafael Castillo Street">
+  <rtept lat="7.087834800000000" lon="125.629859999999994"/>
+  <rtept lat="7.087374200000000" lon="125.629289000000000"/>
+</rte>  
+
+
+
+<rte name= "Rafael Castillo Street">
+  <rtept lat="7.087374200000000" lon="125.629289000000000"/>
+  <rtept lat="7.086585900000000" lon="125.628379300000006"/>
+  <rtept lat="7.086273500000000" lon="125.628000599999993"/>
+  <rtept lat="7.085889100000000" lon="125.627534400000002"/>
+</rte>  
+
+
+<rte name= "Rafael Castillo Street">
+  <rtept lat="7.085889100000000" lon="125.627534400000002"/>
+  <rtept lat="7.084904600000000" lon="125.626376600000000"/>
+  <rtept lat="7.084284200000000" lon="125.625630299999997"/>
+  <rtept lat="7.083617200000000" lon="125.624851600000000"/>
+  <rtept lat="7.083455400000000" lon="125.624628400000006"/>
+</rte> 
+
+ 
+
+<rte name= "Leon Garcia Street">
+  <rtept lat="7.083455400000000" lon="125.624628400000006"/>
+  <rtept lat="7.083311100000000" lon="125.624534600000004"/>
+  <rtept lat="7.083191300000000" lon="125.624456800000004"/>
+  <rtept lat="7.083175600000000" lon="125.624454600000007"/>
+  <rtept lat="7.083140400000000" lon="125.624449700000000"/>
+  <rtept lat="7.082941300000000" lon="125.624397999999999"/>
+  <rtept lat="7.082185800000000" lon="125.624477700000000"/>
+</rte>
+
+
+
+<rte name= "Leon Garcia Street">
+  <rtept lat="7.082185800000000" lon="125.624477700000000"/>
+  <rtept lat="7.081729900000000" lon="125.624525300000002"/>
+</rte>
+
+
+<rte name= "Leon Garcia Street">
+  <rtept lat="7.081729900000000" lon="125.624525300000002"/>
+  <rtept lat="7.081558200000000" lon="125.624542099999999"/>
+  <rtept lat="7.081345200000000" lon="125.624590400000002"/>
+  <rtept lat="7.081265200000000" lon="125.624633200000005"/>
+  <rtept lat="7.080416400000000" lon="125.624703199999999"/>
+</rte>
+
+
+<rte name= "Leon Garcia Street">
+  <rtept lat="7.080416400000000" lon="125.624703199999999"/>
+  <rtept lat="7.078834000000000" lon="125.624846300000002"/>
+</rte>
+
+
+<rte name= "Leon Garcia Street">
+  <rtept lat="7.078834000000000" lon="125.624846300000002"/>
+  <rtept lat="7.077286900000000" lon="125.624979300000007"/>
+</rte>
+
+
+<rte name= "Leon Garcia Street">
+  <rtept lat="7.077286900000000" lon="125.624979300000007"/>
+  <rtept lat="7.076765200000000" lon="125.625017700000001"/>
+</rte>
+
+
+<rte name= "Leon Garcia Street">
+  <rtept lat="7.076765200000000" lon="125.625017700000001"/>
+  <rtept lat="7.076391600000000" lon="125.625062499999999"/>
+  <rtept lat="7.076322200000000" lon="125.625101400000005"/>
+  <rtept lat="7.076303200000000" lon="125.625103300000006"/>
+</rte>
+
+
+<rte name= "Leon Garcia Street">
+  <rtept lat="7.076303200000000" lon="125.625103300000006"/>
+  <rtept lat="7.076284800000000" lon="125.625105099999999"/>
+</rte>
+
+
+<rte name= "Leon Garcia Street">
+  <rtept lat="7.076284800000000" lon="125.625105099999999"/>
+  <rtept lat="7.075796100000000" lon="125.625139599999997"/>
+</rte>
+
+
+<rte name= "Leon Garcia Street">
+  <rtept lat="7.075796100000000" lon="125.625139599999997"/>
+  <rtept lat="7.075246300000000" lon="125.625210400000000"/>
+</rte>
+
+
+<rte name= "Leon Garcia Street">
+  <rtept lat="7.075246300000000" lon="125.625210400000000"/>
+  <rtept lat="7.075180200000000" lon="125.625219299999998"/>
+</rte>
+
+
+<rte name= "Manuel L. Quezon Blvd.">
+  <rtept lat="7.075180200000000" lon="125.625219299999998"/>
+  <rtept lat="7.074922900000000" lon="125.625135299999997"/>
+  <rtept lat="7.074717800000000" lon="125.625053699999995"/>
+  <rtept lat="7.074526100000000" lon="125.624956600000004"/>
+</rte>
+
+
+
+<rte name= "Manuel L. Quezon Blvd.">
+  <rtept lat="7.074526100000000" lon="125.624956600000004"/>
+  <rtept lat="7.074335000000000" lon="125.624856600000001"/>
+</rte>
+
+
+<rte name= "Manuel L. Quezon Blvd.">
+  <rtept lat="7.074335000000000" lon="125.624856600000001"/>
+  <rtept lat="7.074151200000000" lon="125.624742400000002"/>
+  <rtept lat="7.073948400000000" lon="125.624551600000004"/>
+  <rtept lat="7.073724300000000" lon="125.624308900000003"/>
+  <rtept lat="7.072773700000000" lon="125.623111300000005"/>
+</rte>
+
+
+<rte name= "Manuel L. Quezon Blvd.">
+ <rtept lat="7.072773700000000" lon="125.623111300000005"/>
+ <rtept lat="7.072722600000000" lon="125.623047900000003"/>
+</rte>
+
+
+<rte name= "Manuel L. Quezon Blvd.">
+ <rtept lat="7.072722600000000" lon="125.623047900000003"/>
+  <rtept lat="7.071916500000000" lon="125.622046900000001"/>
+</rte>
+
+
+<rte name= "Manuel L. Quezon Blvd.">
+  <rtept lat="7.071916500000000" lon="125.622046900000001"/>
+  <rtept lat="7.071140800000000" lon="125.621038999999996"/>
+</rte>
+
+
+<rte name= "Manuel L. Quezon Blvd.">
+  <rtept lat="7.071140800000000" lon="125.621038999999996"/>
+  <rtept lat="7.070742300000000" lon="125.620688299999998"/>
+</rte>
+
+
+<rte name= "Manuel L. Quezon Blvd.">
+  <rtept lat="7.070742300000000" lon="125.620688299999998"/>
+  <rtept lat="7.070619200000000" lon="125.620594400000002"/>
+  <rtept lat="7.070423900000000" lon="125.620448300000007"/>
+  <rtept lat="7.070189300000000" lon="125.620281500000004"/>
+</rte>
+
+
+<rte name= "Manuel L. Quezon Blvd.">
+  <rtept lat="7.070189300000000" lon="125.620281500000004"/>
+  <rtept lat="7.070074100000000" lon="125.620216700000000"/>
+  <rtept lat="7.069770200000000" lon="125.620041000000001"/>
+</rte>
+
+
+<rte name= "Manuel L. Quezon Blvd.">
+  <rtept lat="7.069770200000000" lon="125.620041000000001"/>
+  <rtept lat="7.069560800000000" lon="125.619934200000003"/>
+</rte>
+
+
+<rte name= "Manuel L. Quezon Blvd.">
+  <rtept lat="7.069560800000000" lon="125.619934200000003"/>
+  <rtept lat="7.069421800000000" lon="125.619879400000002"/>
+  <rtept lat="7.069316000000000" lon="125.619824600000001"/>
+  <rtept lat="7.069248900000000" lon="125.619762899999998"/>
+</rte>
+
+
+<rte name= "Manuel L. Quezon Blvd.">
+  <rtept lat="7.069248900000000" lon="125.619762899999998"/>
+  <rtept lat="7.069024400000000" lon="125.619512900000004"/>
+</rte>
+
+
+<rte name= "Manuel L. Quezon Blvd.">
+  <rtept lat="7.069024400000000" lon="125.619512900000004"/>
+  <rtept lat="7.068836100000000" lon="125.619298599999993"/>
+</rte>
+
+
+<rte name= "Manuel L. Quezon Blvd.">
+  <rtept lat="7.068836100000000" lon="125.619298599999993"/>
+  <rtept lat="7.068614500000000" lon="125.619015500000003"/>
+</rte>
+
+
+<rte name= "Manuel L. Quezon Blvd.">
+  <rtept lat="7.068614500000000" lon="125.619015500000003"/>
+  <rtept lat="7.068136100000000" lon="125.618432600000006"/>
+</rte>
+
+
+<rte name= "Manuel L. Quezon Blvd.">
+  <rtept lat="7.068136100000000" lon="125.618432600000006"/>
+  <rtept lat="7.067581900000000" lon="125.617753399999998"/>
+</rte>
+
+
+<rte name= "Manuel L. Quezon Blvd.">
+  <rtept lat="7.067581900000000" lon="125.617753399999998"/>
+  <rtept lat="7.066959700000000" lon="125.616992699999997"/>
+</rte>
+
+
+<rte name= "Manuel L. Quezon Blvd.">
+  <rtept lat="7.066959700000000" lon="125.616992699999997"/>
+  <rtept lat="7.066776900000000" lon="125.616770799999998"/>
+</rte>
+
+
+<rte name= "Manuel L. Quezon Blvd.">
+  <rtept lat="7.066776900000000" lon="125.616770799999998"/>
+  <rtept lat="7.066600800000000" lon="125.616555099999999"/>
+</rte>
+
+
+<rte name= "Manuel L. Quezon Blvd.">
+  <rtept lat="7.066600800000000" lon="125.616555099999999"/>
+  <rtept lat="7.066411000000000" lon="125.616343200000003"/>
+</rte>
+
+
+<rte name= "Manuel L. Quezon Blvd.">
+  <rtept lat="7.066411000000000" lon="125.616343200000003"/>
+  <rtept lat="7.066233700000000" lon="125.616138399999997"/>
+</rte>
+
+
+<rte name= "Manuel L. Quezon Blvd.">
+  <rtept lat="7.066233700000000" lon="125.616138399999997"/>
+  <rtept lat="7.065960000000000" lon="125.615822199999997"/>
+</rte>
+
+
+
+<rte name= "Manuel L. Quezon Blvd.">
+  <rtept lat="7.065960000000000" lon="125.615822199999997"/>
+  <rtept lat="7.065731100000000" lon="125.615538099999995"/>
+  <rtept lat="7.064696000000000" lon="125.614288999999999"/>
+</rte>
+
+
+
+<rte name= "Manuel L. Quezon Blvd.">
+  <rtept lat="7.064696000000000" lon="125.614288999999999"/>
+  <rtept lat="7.064234900000000" lon="125.613728399999999"/>
+  <rtept lat="7.064110200000000" lon="125.613581300000007"/>
+  <rtept lat="7.064026400000000" lon="125.613410400000006"/>
+  <rtept lat="7.063923400000000" lon="125.613022700000002"/>
+</rte>
+
+
+<rte name= "Manuel L. Quezon Blvd.">
+  <rtept lat="7.063923400000000" lon="125.613022700000002"/>
+  <rtept lat="7.063669300000000" lon="125.612378600000000"/>
+  <rtept lat="7.063636200000000" lon="125.612316300000003"/>
+  <rtept lat="7.063379000000000" lon="125.611831100000003"/>
+  <rtept lat="7.062967300000000" lon="125.611154299999995"/>
+</rte>
+
+
+
+<rte name= "Manuel L. Quezon Blvd.">
+  <rtept lat="7.062967300000000" lon="125.611154299999995"/>
+  <rtept lat="7.062816300000000" lon="125.611052900000004"/>
+  <rtept lat="7.062480200000000" lon="125.610677199999998"/>
+  <rtept lat="7.062324000000000" lon="125.610533099999998"/>
+</rte>
+
+
+<rte name= "Manuel L. Quezon Blvd.">
+  <rtept lat="7.062324000000000" lon="125.610533099999998"/>
+  <rtept lat="7.062284500000000" lon="125.610423900000001"/>
+</rte>
+
+
+<rte name= "Manuel L. Quezon Blvd.">
+  <rtept lat="7.062284500000000" lon="125.610423900000001"/>
+  <rtept lat="7.061994000000000" lon="125.610197799999995"/>
+  <rtept lat="7.061685200000000" lon="125.609991300000004"/>
+  <rtept lat="7.061243300000000" lon="125.609693500000006"/>
+  <rtept lat="7.060838700000000" lon="125.609411899999998"/>
+  <rtept lat="7.060749500000000" lon="125.609390700000006"/>
+  <rtept lat="7.060409400000000" lon="125.609120000000004"/>
+  <rtept lat="7.059917500000000" lon="125.608657600000001"/>
+  <rtept lat="7.059355900000000" lon="125.608082300000007"/>
+  <rtept lat="7.058985500000000" lon="125.607674900000006"/>
+</rte>
+
+
+
+<rte name= "Manuel L. Quezon Blvd.">
+  <rtept lat="7.058985500000000" lon="125.607674900000006"/>
+  <rtept lat="7.058558700000000" lon="125.607056400000005"/>
+  <rtept lat="7.058408800000000" lon="125.606770699999998"/>
+  <rtept lat="7.058234600000000" lon="125.606336099999993"/>
+  <rtept lat="7.058136400000000" lon="125.605975999999998"/>
+</rte>
+
+
+<rte>
+  <rtept lat="7.058136400000000" lon="125.605975999999998"/>
+  <rtept lat="7.058150600000000" lon="125.605718800000005"/>
+</rte>
+
+
+<rte name= "Bolton Bridge 2">
+  <rtept lat="7.058150600000000" lon="125.605718800000005"/>
+  <rtept lat="7.057884400000000" lon="125.604024199999998"/>
+</rte>
+
+
+<rte>
+  <rtept lat="7.057884400000000" lon="125.604024199999998"/>
+  <rtept lat="7.057748100000000" lon="125.603611500000000"/>
+  <rtept lat="7.057625700000000" lon="125.602567699999994"/>
+</rte>
+
+
+<rte name= "Quimpo Boulevard">
+  <rtept lat="7.057625700000000" lon="125.602567699999994"/>
+  <rtept lat="7.057610600000000" lon="125.602462700000004"/>
+  <rtept lat="7.057562300000000" lon="125.602126400000003"/>
+  <rtept lat="7.057540500000000" lon="125.601974900000002"/>
+  <rtept lat="7.057488500000000" lon="125.601712899999995"/>
+  <rtept lat="7.057458000000000" lon="125.601559199999997"/>
+  <rtept lat="7.057368600000000" lon="125.601234800000000"/>
+</rte>
+
+
+
+<rte name= "Dona Candelaria Avenue">
+  <rtept lat="7.057368600000000" lon="125.601234800000000"/>
+  <rtept lat="7.057266400000000" lon="125.601263900000006"/>
+  <rtept lat="7.056863800000000" lon="125.601427599999994"/>
+  <rtept lat="7.056474000000000" lon="125.601501999999996"/>
+  <rtept lat="7.056110900000000" lon="125.601594800000001"/>
+</rte>
+
+
+<rte name= "Dona Candelaria Avenue">
+  <rtept lat="7.056110900000000" lon="125.601594800000001"/>
+  <rtept lat="7.055911600000000" lon="125.601633000000007"/>
+  <rtept lat="7.054550100000000" lon="125.601824899999997"/>
+</rte>
+
+
+<rte name= "Dona Candelaria Avenue">
+  <rtept lat="7.054550100000000" lon="125.601824899999997"/>
+  <rtept lat="7.053621600000000" lon="125.601914300000004"/>
+</rte>
+
+
+
+<rte name= "Dona Candelaria Avenue">
+  <rtept lat="7.053621600000000" lon="125.601914300000004"/>
+  <rtept lat="7.054550100000000" lon="125.601824899999997"/>
+</rte>
+
+
+<rte name= "Dona Candelaria Avenue">
+  <rtept lat="7.054550100000000" lon="125.601824899999997"/>
+  <rtept lat="7.055911600000000" lon="125.601633000000007"/>
+  <rtept lat="7.056110900000000" lon="125.601594800000001"/>
+</rte>
+
+
+<rte name= "Dona Candelaria Avenue">
+  <rtept lat="7.056110900000000" lon="125.601594800000001"/>
+  <rtept lat="7.053621600000000" lon="125.601914300000004"/>
+  <rtept lat="7.054550100000000" lon="125.601824899999997"/>
+  <rtept lat="7.055911600000000" lon="125.601633000000007"/>
+  <rtept lat="7.056110900000000" lon="125.601594800000001"/>
+  <rtept lat="7.056474000000000" lon="125.601501999999996"/>
+  <rtept lat="7.056863800000000" lon="125.601427599999994"/>
+</rte>
+
+
+<rte>
+  <rtept lat="7.056863800000000" lon="125.601427599999994"/>
+  <rtept lat="7.057016000000000" lon="125.601438000000000"/>
+  <rtept lat="7.057149000000000" lon="125.601438000000000"/>
+  <rtept lat="7.057224000000000" lon="125.601448000000000"/>
+  <rtept lat="7.057309000000000" lon="125.601486000000000"/>
+  <rtept lat="7.057389000000000" lon="125.601561000000000"/>
+  <rtept lat="7.057442000000000" lon="125.601620000000000"/>
+  <rtept lat="7.057488500000000" lon="125.601712899999995"/>
+</rte>
+
+
+
+<rte name= "Quimpo Boulevard">
+  <rtept lat="7.057488500000000" lon="125.601712899999995"/>
+  <rtept lat="7.057540500000000" lon="125.601974900000002"/>
+  <rtept lat="7.057562300000000" lon="125.602126400000003"/>
+  <rtept lat="7.057610600000000" lon="125.602462700000004"/>
+  <rtept lat="7.057625700000000" lon="125.602567699999994"/>
+  <rtept lat="7.057748100000000" lon="125.603611500000000"/>
+</rte>
+
+
+<rte>
+  <rtept lat="7.057748100000000" lon="125.603611500000000"/>
+  <rtept lat="7.057791000000000" lon="125.604034600000006"/>
+</rte>
+
+
+<rte name= "Bolton Bridge 1">
+  <rtept lat="7.057791000000000" lon="125.604034600000006"/>
+  <rtept lat="7.058048800000000" lon="125.605734200000001"/>
+</rte>
+
+
+<rte>
+  <rtept lat="7.058048800000000" lon="125.605734200000001"/>
+  <rtept lat="7.058136400000000" lon="125.605975999999998"/>
+</rte>
+
+
+
+<rte name= "Manuel L. Quezon Boulevard">
+  <rtept lat="7.058136400000000" lon="125.605975999999998"/>
+  <rtept lat="7.058234600000000" lon="125.606336099999993"/>
+  <rtept lat="7.058408800000000" lon="125.606770699999998"/>
+  <rtept lat="7.058558700000000" lon="125.607056400000005"/>
+  <rtept lat="7.058985500000000" lon="125.607674900000006"/>
+  <rtept lat="7.059355900000000" lon="125.608082300000007"/>
+  <rtept lat="7.059917500000000" lon="125.608657600000001"/>
+  <rtept lat="7.060409400000000" lon="125.609120000000004"/>
+  <rtept lat="7.060749500000000" lon="125.609390700000006"/>
+  <rtept lat="7.060792500000000" lon="125.609474300000002"/>
+  <rtept lat="7.060961400000000" lon="125.609608699999995"/>
+  <rtept lat="7.061905100000000" lon="125.610263399999994"/>
+  <rtept lat="7.062212400000000" lon="125.610498800000002"/>
+  <rtept lat="7.062324000000000" lon="125.610533099999998"/>
+
+  <rtept lat="7.062480200000000" lon="125.610677199999998"/>
+  <rtept lat="7.062816300000000" lon="125.611052900000004"/>
+
+  <rtept lat="7.062878600000000" lon="125.611200999999994"/>
+</rte>
+
+
+<rte name= "Manuel L. Quezon Boulevard">
+  <rtept lat="7.062878600000000" lon="125.611200999999994"/>
+  <rtept lat="7.063209300000000" lon="125.611739499999999"/>
+</rte>
+
+
+
+<rte name= "Manuel L. Quezon Boulevard">
+  <rtept lat="7.063209300000000" lon="125.611739499999999"/>
+  <rtept lat="7.063293900000000" lon="125.611882600000001"/>
+  <rtept lat="7.063370600000000" lon="125.612023500000006"/>
+  <rtept lat="7.063558700000000" lon="125.612372199999996"/>
+</rte>
+
+
+<rte name= "Manuel L. Quezon Boulevard">
+  <rtept lat="7.063558700000000" lon="125.612372199999996"/>
+  <rtept lat="7.063583500000000" lon="125.612414700000002"/>
+  <rtept lat="7.063825700000000" lon="125.613013600000002"/>
+  <rtept lat="7.063948900000000" lon="125.613412499999995"/>
+</rte>
+
+
+<rte name= "Manuel L. Quezon Boulevard">
+  <rtept lat="7.063948900000000" lon="125.613412499999995"/>
+  <rtept lat="7.064062700000000" lon="125.613641000000001"/>
+  <rtept lat="7.064205900000000" lon="125.613818400000000"/>
+</rte>
+
+
+<rte name= "Manuel L. Quezon Boulevard">
+  <rtept lat="7.064205900000000" lon="125.613818400000000"/>
+  <rtept lat="7.064635000000000" lon="125.614348300000003"/>
+</rte>
+
+
+
+<rte name= "Manuel L. Quezon Boulevard">
+  <rtept lat="7.064635000000000" lon="125.614348300000003"/>
+  <rtept lat="7.064993000000000" lon="125.614778900000005"/>
+  <rtept lat="7.065261600000000" lon="125.615102399999998"/>
+</rte>
+
+
+<rte name= "Manuel L. Quezon Boulevard">
+  <rtept lat="7.065261600000000" lon="125.615102399999998"/>
+  <rtept lat="7.065671100000000" lon="125.615597399999999"/>
+</rte>
+
+
+<rte name= "Manuel L. Quezon Boulevard">
+  <rtept lat="7.065671100000000" lon="125.615597399999999"/>
+  <rtept lat="7.065945800000000" lon="125.615930899999995"/>
+</rte>
+
+
+<rte name= "Manuel L. Quezon Boulevard">
+  <rtept lat="7.065945800000000" lon="125.615930899999995"/>
+  <rtept lat="7.066059900000000" lon="125.616066300000000"/>
+</rte>
+
+
+<rte name= "Manuel L. Quezon Boulevard">
+  <rtept lat="7.066059900000000" lon="125.616066300000000"/>
+  <rtept lat="7.066360000000000" lon="125.616422000000000"/>
+</rte>
+
+
+<rte name= "Manuel L. Quezon Boulevard">
+  <rtept lat="7.066360000000000" lon="125.616422000000000"/>
+  <rtept lat="7.066528500000000" lon="125.616613000000001"/>
+</rte>
+
+
+<rte name= "Manuel L. Quezon Boulevard">
+  <rtept lat="7.066528500000000" lon="125.616613000000001"/>
+  <rtept lat="7.066600100000000" lon="125.616703299999998"/>
+</rte>
+
+
+<rte name= "Manuel L. Quezon Boulevard">
+  <rtept lat="7.066600100000000" lon="125.616703299999998"/>
+  <rtept lat="7.066703800000000" lon="125.616828299999995"/>
+</rte>
+
+
+
+<rte name= "Manuel L. Quezon Boulevard">
+  <rtept lat="7.066703800000000" lon="125.616828299999995"/>
+  <rtept lat="7.066900200000000" lon="125.617062200000007"/>
+</rte>
+
+
+<rte name= "Manuel L. Quezon Boulevard">
+  <rtept lat="7.066900200000000" lon="125.617062200000007"/>
+  <rtept lat="7.067286600000000" lon="125.617535200000006"/>
+</rte>
+
+
+
+<rte name= "Manuel L. Quezon Boulevard">
+  <rtept lat="7.067286600000000" lon="125.617535200000006"/>
+  <rtept lat="7.067531600000000" lon="125.617814800000005"/>
+</rte>
+
+
+<rte name= "Manuel L. Quezon Boulevard">
+  <rtept lat="7.067531600000000" lon="125.617814800000005"/>
+  <rtept lat="7.067747200000000" lon="125.618083299999995"/>
+</rte>
+
+
+
+<rte name= "Manuel L. Quezon Boulevard">
+  <rtept lat="7.067747200000000" lon="125.618083299999995"/>
+  <rtept lat="7.067881800000000" lon="125.618257900000003"/>
+</rte>
+
+
+<rte name= "Manuel L. Quezon Boulevard">
+  <rtept lat="7.067881800000000" lon="125.618257900000003"/>
+  <rtept lat="7.068134200000000" lon="125.618571000000003"/>
+</rte>
+
+
+
+<rte name= "Manuel L. Quezon Boulevard">
+  <rtept lat="7.068134200000000" lon="125.618571000000003"/>
+  <rtept lat="7.068351600000000" lon="125.618830299999999"/>
+</rte>
+
+
+<rte name= "Manuel L. Quezon Boulevard">
+  <rtept lat="7.068351600000000" lon="125.618830299999999"/>
+  <rtept lat="7.068555300000000" lon="125.619067400000006"/>
+</rte>
+
+
+
+<rte name= "Manuel L. Quezon Boulevard">
+  <rtept lat="7.068555300000000" lon="125.619067400000006"/>
+  <rtept lat="7.068706700000000" lon="125.619254100000006"/>
+</rte>
+
+
+
+<rte name= "Manuel L. Quezon Boulevard">
+  <rtept lat="7.068706700000000" lon="125.619254100000006"/>
+  <rtept lat="7.068997500000000" lon="125.619588699999994"/>
+</rte>
+
+
+
+<rte name= "Manuel L. Quezon Boulevard">
+  <rtept lat="7.068997500000000" lon="125.619588699999994"/>
+  <rtept lat="7.069090400000000" lon="125.619709599999993"/>
+  <rtept lat="7.069215300000000" lon="125.619839400000004"/>
+  <rtept lat="7.069292500000000" lon="125.619907799999993"/>
+  <rtept lat="7.069562700000000" lon="125.620028800000000"/>
+</rte>
+
+
+
+
+<rte name= "Manuel L. Quezon Boulevard">
+  <rtept lat="7.069562700000000" lon="125.620028800000000"/>
+  <rtept lat="7.069961300000000" lon="125.620231099999998"/>
+</rte>
+
+
+
+<rte name= "Manuel L. Quezon Boulevard">
+  <rtept lat="7.069961300000000" lon="125.620231099999998"/>
+  <rtept lat="7.070213500000000" lon="125.620405300000002"/>
+</rte>
+
+
+
+
+<rte name= "Manuel L. Quezon Boulevard">
+  <rtept lat="7.070213500000000" lon="125.620405300000002"/>
+  <rtept lat="7.070521200000000" lon="125.620624500000005"/>
+</rte>
+
+
+
+<rte name= "Manuel L. Quezon Boulevard">
+  <rtept lat="7.070521200000000" lon="125.620624500000005"/>
+  <rtept lat="7.070760000000000" lon="125.620820199999997"/>
+  <rtept lat="7.070937800000000" lon="125.620992200000003"/>
+</rte>
+
+
+
+<rte name= "Manuel L. Quezon Boulevard">
+  <rtept lat="7.070937800000000" lon="125.620992200000003"/>
+  <rtept lat="7.071032800000000" lon="125.621076599999995"/>
+</rte>
+
+
+
+<rte name= "Manuel L. Quezon Boulevard">
+  <rtept lat="7.071032800000000" lon="125.621076599999995"/>
+  <rtept lat="7.071238300000000" lon="125.621318200000005"/>
+</rte>
+
+
+<rte name= "Manuel L. Quezon Boulevard">
+  <rtept lat="7.071238300000000" lon="125.621318200000005"/>
+  <rtept lat="7.071357500000000" lon="125.621467100000004"/>
+</rte>
+
+
+<rte name= "Manuel L. Quezon Boulevard">
+  <rtept lat="7.071357500000000" lon="125.621467100000004"/>
+  <rtept lat="7.071694000000000" lon="125.621897000000004"/>
+</rte>
+
+
+<rte name= "Manuel L. Quezon Boulevard">
+  <rtept lat="7.071694000000000" lon="125.621897000000004"/>
+  <rtept lat="7.071871300000000" lon="125.622122200000007"/>
+</rte>
+
+
+<rte name= "Manuel L. Quezon Boulevard">
+  <rtept lat="7.071871300000000" lon="125.622122200000007"/>
+  <rtept lat="7.072666700000000" lon="125.623122100000003"/>
+</rte>
+
+
+<rte name= "Manuel L. Quezon Boulevard">
+  <rtept lat="7.072666700000000" lon="125.623122100000003"/>
+  <rtept lat="7.072736000000000" lon="125.623209200000005"/>
+  <rtept lat="7.073450900000000" lon="125.624114000000006"/>
+</rte>
+
+
+
+<rte name= "Manuel L. Quezon Boulevard">
+  <rtept lat="7.073450900000000" lon="125.624114000000006"/>
+  <rtept lat="7.073873600000000" lon="125.624620100000001"/>
+  <rtept lat="7.074084800000000" lon="125.624834899999996"/>
+  <rtept lat="7.074259300000000" lon="125.624976099999998"/>
+</rte>
+
+
+<rte name= "Manuel L. Quezon Boulevard">
+  <rtept lat="7.074259300000000" lon="125.624976099999998"/>
+  <rtept lat="7.074481100000000" lon="125.625132800000003"/>
+  <rtept lat="7.074691400000000" lon="125.625207300000000"/>
+  <rtept lat="7.074925500000000" lon="125.625238199999998"/>
+  <rtept lat="7.075180200000000" lon="125.625219299999998"/>
+  <rtept lat="7.075246300000000" lon="125.625210400000000"/>
+</rte>
+
+
+<rte name= "Manuel L. Quezon Boulevard">
+  <rtept lat="7.075246300000000" lon="125.625210400000000"/>
+  <rtept lat="7.075796100000000" lon="125.625139599999997"/>
+</rte>
+
+
+
+<rte name= "Manuel L. Quezon Boulevard">
+  <rtept lat="7.075796100000000" lon="125.625139599999997"/>
+  <rtept lat="7.076284800000000" lon="125.625105099999999"/>
+</rte>
+
+
+<rte name= "Manuel L. Quezon Boulevard">
+  <rtept lat="7.076284800000000" lon="125.625105099999999"/>
+  <rtept lat="7.076303200000000" lon="125.625103300000006"/>
+  <rtept lat="7.076322200000000" lon="125.625101400000005"/>
+</rte>
+
+
+
+<rte name= "Leon Garcia Street">
+  <rtept lat="7.076322200000000" lon="125.625101400000005"/>
+  <rtept lat="7.076391600000000" lon="125.625126899999998"/>
+  <rtept lat="7.076773200000000" lon="125.625098499999993"/>
+</rte>
+
+
+
+<rte name= "Leon Garcia Street">
+  <rtept lat="7.076773200000000" lon="125.625098499999993"/>
+  <rtept lat="7.077294100000000" lon="125.625059800000002"/>
+</rte>
+
+
+<rte name= "Leon Garcia Street">
+  <rtept lat="7.077294100000000" lon="125.625059800000002"/>
+  <rtept lat="7.077761800000000" lon="125.625020500000005"/>
+  <rtept lat="7.078243700000000" lon="125.624976799999999"/>
+</rte>
+
+
+<rte name= "Leon Garcia Street">
+  <rtept lat="7.078243700000000" lon="125.624976799999999"/>
+  <rtept lat="7.078565700000000" lon="125.624946600000001"/>
+</rte>
+
+
+<rte name= "Leon Garcia Street">
+  <rtept lat="7.078565700000000" lon="125.624946600000001"/>
+  <rtept lat="7.078842400000000" lon="125.624920900000006"/>
+</rte>
+
+
+
+<rte name= "Leon Garcia Street">
+  <rtept lat="7.078842400000000" lon="125.624920900000006"/>
+  <rtept lat="7.078973200000000" lon="125.624909000000002"/>
+</rte>
+
+
+
+<rte name= "Leon Garcia Street">
+  <rtept lat="7.078973200000000" lon="125.624909000000002"/>
+  <rtept lat="7.080425300000000" lon="125.624797400000006"/>
+</rte>
+
+
+<rte name= "Leon Garcia Street">
+  <rtept lat="7.080425300000000" lon="125.624797400000006"/>
+  <rtept lat="7.081288400000000" lon="125.624715899999998"/>
+  <rtept lat="7.081379800000000" lon="125.624740599999996"/>
+  <rtept lat="7.081544900000000" lon="125.624748600000004"/>
+  <rtept lat="7.081719100000000" lon="125.624742900000001"/>
+</rte>
+
+
+
+<rte name= "Leon Garcia Street">
+  <rtept lat="7.081719100000000" lon="125.624742900000001"/>
+  <rtept lat="7.082253000000000" lon="125.624691499999997"/>
+</rte>
+
+
+<rte name= "Leon Garcia Street">
+  <rtept lat="7.082253000000000" lon="125.624691499999997"/>
+  <rtept lat="7.082518800000000" lon="125.624671500000005"/>
+</rte>
+
+
+<rte name= "Leon Garcia Street">
+  <rtept lat="7.082518800000000" lon="125.624671500000005"/>
+  <rtept lat="7.083021000000000" lon="125.624619899999999"/>
+  <rtept lat="7.083248400000000" lon="125.624622799999997"/>
+</rte>
+
+
+<rte name= "Rafael Castillo Street">
+  <rtept lat="7.083248400000000" lon="125.624622799999997"/>
+  <rtept lat="7.083398200000000" lon="125.624694700000006"/>
+  <rtept lat="7.083816000000000" lon="125.625190300000000"/>
+  <rtept lat="7.084219400000000" lon="125.625669299999998"/>
+  <rtept lat="7.084852700000000" lon="125.626421699999995"/>
+  <rtept lat="7.085823600000000" lon="125.627589799999996"/>
+</rte>
+
+
+<rte name= "Rafael Castillo Street">
+  <rtept lat="7.085823600000000" lon="125.627589799999996"/>
+  <rtept lat="7.086203800000000" lon="125.628056500000000"/>
+  <rtept lat="7.086512100000000" lon="125.628434999999996"/>
+  <rtept lat="7.087296300000000" lon="125.629329100000007"/>
+</rte>
+
+
+<rte name= "Rafael Castillo Street">
+  <rtept lat="7.087296300000000" lon="125.629329100000007"/>
+  <rtept lat="7.087773200000000" lon="125.629925400000005"/>
+</rte>
+
+
+
+<rte name= "Rafael Castillo Street">
+  <rtept lat="7.087773200000000" lon="125.629925400000005"/>
+  <rtept lat="7.088519100000000" lon="125.630795800000001"/>
+</rte>
+
+
+<rte name= "Rafael Castillo Street">
+  <rtept lat="7.088519100000000" lon="125.630795800000001"/>
+  <rtept lat="7.088963500000000" lon="125.631328600000003"/>
+  <rtept lat="7.089415300000000" lon="125.631887599999999"/>
+</rte>
+
+
+
+<rte name= "Rafael Castillo Street">
+  <rtept lat="7.089415300000000" lon="125.631887599999999"/>
+  <rtept lat="7.089533200000000" lon="125.632033500000006"/>
+  <rtept lat="7.090052100000000" lon="125.632617900000000"/>
+</rte>
+
+
+<rte name= "Rafael Castillo Street">
+  <rtept lat="7.090052100000000" lon="125.632617900000000"/>
+  <rtept lat="7.090450800000000" lon="125.632987200000002"/>
+  <rtept lat="7.091592800000000" lon="125.633928400000002"/>
+</rte>
+
+
+<rte name= "Rafael Castillo Street">
+  <rtept lat="7.091592800000000" lon="125.633928400000002"/>
+  <rtept lat="7.092991300000000" lon="125.635064700000001"/>
+</rte>
+
+
+<rte name= "Rafael Castillo Street">
+  <rtept lat="7.092991300000000" lon="125.635064700000001"/>
+  <rtept lat="7.094249800000000" lon="125.636100900000002"/>
+</rte>
+
+
+<rte name= "Rafael Castillo Street">
+  <rtept lat="7.094249800000000" lon="125.636100900000002"/>
+  <rtept lat="7.094407200000000" lon="125.636235900000003"/>
+</rte>
+
+
+<rte name= "Rafael Castillo Street">
+  <rtept lat="7.094407200000000" lon="125.636235900000003"/>
+  <rtept lat="7.094746400000000" lon="125.636528200000001"/>
+  <rtept lat="7.095063700000000" lon="125.636801700000007"/>
+</rte>
+
+
+<rte name= "Rafael Castillo Street">
+  <rtept lat="7.095063700000000" lon="125.636801700000007"/>
+  <rtept lat="7.095147300000000" lon="125.636870799999997"/>
+  <rtept lat="7.096574700000000" lon="125.638020499999996"/>
+  <rtept lat="7.096650800000000" lon="125.638076799999993"/>
+</rte>
+
+
+<rte name= "Rafael Castillo Street">
+  <rtept lat="7.096650800000000" lon="125.638076799999993"/>
+  <rtept lat="7.101336200000000" lon="125.641878199999994"/>
+</rte>
+
+
+<rte name= "Rafael Castillo Street">
+  <rtept lat="7.101336200000000" lon="125.641878199999994"/>
+  <rtept lat="7.102554500000000" lon="125.642900200000000"/>
+</rte>
+
+
+<rte name= "Rafael Castillo Street">
+  <rtept lat="7.102554500000000" lon="125.642900200000000"/>
+  <rtept lat="7.103817900000000" lon="125.643960500000006"/>
+  <rtept lat="7.103978300000000" lon="125.644074099999997"/>
+</rte>
+
+
+<rte name= "Rafael Castillo Street">
+  <rtept lat="7.103978300000000" lon="125.644074099999997"/>
+  <rtept lat="7.104134000000000" lon="125.644186199999993"/>
+</rte>
+
+
+
+<rte name= "Davao-Agusan National Highway(Lanang)">
+  <rtept lat="7.104134000000000" lon="125.644186199999993"/>
+  <rtept lat="7.104230900000000" lon="125.644265200000007"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Lanang)">
+  <rtept lat="7.104230900000000" lon="125.644265200000007"/>
+  <rtept lat="7.104134000000000" lon="125.644186199999993"/>
+  <rtept lat="7.104230900000000" lon="125.644265200000007"/>
+  <rtept lat="7.105159900000000" lon="125.645022800000007"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Lanang)">
+  <rtept lat="7.105159900000000" lon="125.645022800000007"/>
+  <rtept lat="7.106490400000000" lon="125.646107900000004"/>
+  <rtept lat="7.106969500000000" lon="125.646498600000001"/>
+  <rtept lat="7.107198800000000" lon="125.646685700000006"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Lanang)">
+  <rtept lat="7.107198800000000" lon="125.646685700000006"/>
+  <rtept lat="7.109078100000000" lon="125.648218299999996"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Lanang)">
+  <rtept lat="7.109078100000000" lon="125.648218299999996"/>
+  <rtept lat="7.109357600000000" lon="125.648446300000003"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Lanang)">
+  <rtept lat="7.109357600000000" lon="125.648446300000003"/>
+  <rtept lat="7.109691700000000" lon="125.648713299999997"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Lanang)">
+  <rtept lat="7.109691700000000" lon="125.648713299999997"/>
+  <rtept lat="7.109821500000000" lon="125.648824599999998"/>
+</rte>
+
+
+
+<rte name= "Davao-Agusan National Highway(Lanang)">
+  <rtept lat="7.109821500000000" lon="125.648824599999998"/>
+  <rtept lat="7.109987300000000" lon="125.648959800000000"/>
+  <rtept lat="7.110601100000000" lon="125.649460500000004"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Lanang)">
+  <rtept lat="7.109821500000000" lon="125.648824599999998"/>
+  <rtept lat="7.109987300000000" lon="125.648959800000000"/>
+  <rtept lat="7.110601100000000" lon="125.649460500000004"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Lanang)">
+  <rtept lat="7.110601100000000" lon="125.649460500000004"/>
+  <rtept lat="7.110782600000000" lon="125.649608499999999"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Lanang)">
+  <rtept lat="7.110782600000000" lon="125.649608499999999"/>
+  <rtept lat="7.113180800000000" lon="125.651564300000004"/>
+</rte>
+
+
+
+<rte name= "Davao-Agusan National Highway(Sasa)">
+  <rtept lat="7.113180800000000" lon="125.651564300000004"/>
+  <rtept lat="7.114283900000000" lon="125.652463999999995"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Sasa)">
+  <rtept lat="7.114283900000000" lon="125.652463999999995"/>
+  <rtept lat="7.114917800000000" lon="125.652980999999997"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Sasa)">
+  <rtept lat="7.114917800000000" lon="125.652980999999997"/>
+  <rtept lat="7.115277600000000" lon="125.653274400000001"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Sasa)">
+  <rtept lat="7.115277600000000" lon="125.653274400000001"/>
+  <rtept lat="7.115354300000000" lon="125.653333900000007"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Sasa)">
+  <rtept lat="7.115354300000000" lon="125.653333900000007"/>
+  <rtept lat="7.115908400000000" lon="125.653788899999995"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Sasa)">
+  <rtept lat="7.115908400000000" lon="125.653788899999995"/>
+  <rtept lat="7.116400300000000" lon="125.654190000000000"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Sasa)">
+  <rtept lat="7.116400300000000" lon="125.654190000000000"/>
+  <rtept lat="7.116535300000000" lon="125.654300100000000"/>
+  <rtept lat="7.116782800000000" lon="125.654501900000000"/>
+  <rtept lat="7.117596900000000" lon="125.655165900000000"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Sasa)">
+  <rtept lat="7.117596900000000" lon="125.655165900000000"/>
+  <rtept lat="7.117725700000000" lon="125.655270999999999"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Sasa)">
+  <rtept lat="7.117725700000000" lon="125.655270999999999"/>
+  <rtept lat="7.117871900000000" lon="125.655324199999995"/>
+  <rtept lat="7.117871900000000" lon="125.655324199999995"/>
+  <rtept lat="7.118893800000000" lon="125.656177299999996"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Sasa)">
+  <rtept lat="7.118893800000000" lon="125.656177299999996"/>
+  <rtept lat="7.119202500000000" lon="125.656423799999999"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Sasa)">
+  <rtept lat="7.119202500000000" lon="125.656423799999999"/>
+ <rtept lat="7.119658100000000" lon="125.656787600000001"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Sasa)">
+ <rtept lat="7.119658100000000" lon="125.656787600000001"/>
+  <rtept lat="7.122380000000000" lon="125.659017700000007"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Sasa)">
+  <rtept lat="7.122380000000000" lon="125.659017700000007"/>
+  <rtept lat="7.124413500000000" lon="125.660683800000001"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Sasa)">
+  <rtept lat="7.124413500000000" lon="125.660683800000001"/>
+  <rtept lat="7.124714300000000" lon="125.660941300000005"/>
+  <rtept lat="7.125015000000000" lon="125.661166600000001"/>
+  <rtept lat="7.125398300000000" lon="125.661429400000003"/>
+  <rtept lat="7.125850700000000" lon="125.661627899999999"/>
+  <rtept lat="7.126239300000000" lon="125.661759300000000"/>
+  <rtept lat="7.126824800000000" lon="125.661812999999995"/>
+  <rtept lat="7.127342500000000" lon="125.661818299999993"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Sasa)">
+  <rtept lat="7.127342500000000" lon="125.661818299999993"/>
+  <rtept lat="7.129544700000000" lon="125.661756400000002"/>
+  <rtept lat="7.131708800000000" lon="125.661695499999993"/>
+  <rtept lat="7.134040100000000" lon="125.661629899999994"/>
+  <rtept lat="7.134564500000000" lon="125.661618099999998"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Sasa)">
+  <rtept lat="7.134564500000000" lon="125.661618099999998"/>
+  <rtept lat="7.134794700000000" lon="125.661608700000002"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Sasa)">
+  <rtept lat="7.134794700000000" lon="125.661608700000002"/>
+  <rtept lat="7.136147900000000" lon="125.661570699999999"/>
+</rte>
+
+
+
+<rte name= "Davao-Agusan National Highway(Sasa)">
+  <rtept lat="7.136147900000000" lon="125.661570699999999"/>
+  <rtept lat="7.136854200000000" lon="125.661550800000001"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Sasa)">
+  <rtept lat="7.136854200000000" lon="125.661550800000001"/>
+  <rtept lat="7.137321600000000" lon="125.661537699999997"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Sasa)">
+  <rtept lat="7.137321600000000" lon="125.661537699999997"/>
+  <rtept lat="7.137577000000000" lon="125.661530499999998"/>
+</rte>
+
+
+
+<rte name= "Davao-Agusan National Highway(Sasa)">
+  <rtept lat="7.137577000000000" lon="125.661530499999998"/>
+  <rtept lat="7.138600900000000" lon="125.661501799999996"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Sasa)">
+  <rtept lat="7.138600900000000" lon="125.661501799999996"/>
+  <rtept lat="7.138899700000000" lon="125.661493300000004"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Sasa)">
+  <rtept lat="7.138899700000000" lon="125.661493300000004"/>
+  <rtept lat="7.139317600000000" lon="125.661481499999994"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Sasa)">
+  <rtept lat="7.139317600000000" lon="125.661481499999994"/>
+  <rtept lat="7.139640200000000" lon="125.661471899999995"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Sasa)">
+  <rtept lat="7.139640200000000" lon="125.661471899999995"/>
+  <rtept lat="7.139662000000000" lon="125.661471399999996"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Sasa)">
+  <rtept lat="7.139662000000000" lon="125.661471399999996"/>
+  <rtept lat="7.139796900000000" lon="125.661468099999993"/>
+</rte>
+
+
+
+<rte name= "Davao-Agusan National Highway(Sasa)">
+  <rtept lat="7.139796900000000" lon="125.661468099999993"/>
+  <rtept lat="7.140094700000000" lon="125.661459699999995"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Sasa)">
+  <rtept lat="7.140094700000000" lon="125.661459699999995"/>
+  <rtept lat="7.140206600000000" lon="125.661456500000000"/>
+  <rtept lat="7.140603200000000" lon="125.661445400000005"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Sasa)">
+  <rtept lat="7.140603200000000" lon="125.661445400000005"/>
+  <rtept lat="7.140744400000000" lon="125.661441400000001"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Sasa)">
+  <rtept lat="7.140744400000000" lon="125.661441400000001"/>
+  <rtept lat="7.141452100000000" lon="125.661421500000003"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Sasa)">
+  <rtept lat="7.141452100000000" lon="125.661421500000003"/>
+  <rtept lat="7.141563900000000" lon="125.661418400000002"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Sasa)">
+  <rtept lat="7.141563900000000" lon="125.661418400000002"/>
+  <rtept lat="7.141614500000000" lon="125.661416900000006"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Panacan)">
+  <rtept lat="7.141614500000000" lon="125.661416900000006"/>
+  <rtept lat="7.141822000000000" lon="125.661411099999995"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Panacan)">
+  <rtept lat="7.141822000000000" lon="125.661411099999995"/>
+  <rtept lat="7.142672000000000" lon="125.661383999999998"/>
+  <rtept lat="7.143227500000000" lon="125.661366200000003"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Panacan)">
+  <rtept lat="7.143227500000000" lon="125.661366200000003"/>
+  <rtept lat="7.143814800000000" lon="125.661355099999994"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Panacan)">
+  <rtept lat="7.143814800000000" lon="125.661355099999994"/>
+  <rtept lat="7.144022800000000" lon="125.661349200000004"/>
+</rte>
+
+
+
+<rte name= "Davao-Agusan National Highway(Panacan)">
+  <rtept lat="7.144022800000000" lon="125.661349200000004"/>
+  <rtept lat="7.144181800000000" lon="125.661344700000001"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Panacan)">
+  <rtept lat="7.144181800000000" lon="125.661344700000001"/>
+  <rtept lat="7.144292700000000" lon="125.661341600000000"/>
+</rte>
+
+
+
+<rte name= "Davao-Agusan National Highway(Panacan)">
+  <rtept lat="7.144292700000000" lon="125.661341600000000"/>
+  <rtept lat="7.144326700000000" lon="125.661342399999995"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Panacan)">
+  <rtept lat="7.144326700000000" lon="125.661342399999995"/>
+  <rtept lat="7.144709400000000" lon="125.661329899999998"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Panacan)">
+  <rtept lat="7.144709400000000" lon="125.661329899999998"/>
+  <rtept lat="7.144994200000000" lon="125.661321900000004"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Panacan)">
+  <rtept lat="7.144994200000000" lon="125.661321900000004"/>
+  <rtept lat="7.145175600000000" lon="125.661313699999994"/>
+</rte>
+
+
+
+<rte name= "Davao-Agusan National Highway(Panacan)">
+  <rtept lat="7.145175600000000" lon="125.661313699999994"/>
+  <rtept lat="7.145458600000000" lon="125.661307500000007"/>
+</rte>
+
+
+
+<rte name= "Davao-Agusan National Highway(Panacan)">
+  <rtept lat="7.145458600000000" lon="125.661307500000007"/>
+  <rtept lat="7.146175300000000" lon="125.661245600000001"/>
+  <rtept lat="7.146989700000000" lon="125.661085499999999"/>
+  <rtept lat="7.147344100000000" lon="125.660998599999999"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Panacan)">
+  <rtept lat="7.147344100000000" lon="125.660998599999999"/>
+  <rtept lat="7.147513300000000" lon="125.660942399999996"/>
+</rte>
+
+
+
+<rte name= "Davao-Agusan National Highway(Panacan)">
+  <rtept lat="7.147513300000000" lon="125.660942399999996"/>
+  <rtept lat="7.148049700000000" lon="125.660741599999994"/>
+  <rtept lat="7.148338900000000" lon="125.660611399999993"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Panacan)">
+  <rtept lat="7.148338900000000" lon="125.660611399999993"/>
+  <rtept lat="7.148834800000000" lon="125.660365900000002"/>
+  <rtept lat="7.149740000000000" lon="125.659990000000000"/>
+  <rtept lat="7.150070000000000" lon="125.659820000000000"/>
+  <rtept lat="7.150860000000000" lon="125.659440000000000"/>
+</rte> 
+
+
+<rte name= "Davao-Agusan National Highway(Panacan)">
+        <rtept lat="7.15086" lon="125.65944"/>
+        <rtept lat="7.15227" lon="125.65877"/>
+</rte> 
+
+
+<rte name= "Davao-Agusan National Highway(Panacan)">
+        <rtept lat="7.15227" lon="125.65877"/>
+        <rtept lat="7.15242" lon="125.65870"/>
+</rte> 
+
+
+<rte name= "Davao-Agusan National Highway(Panacan)">
+        <rtept lat="7.15242" lon="125.65870"/>
+        <rtept lat="7.15271" lon="125.65856"/>
+</rte> 
+
+
+<rte name= "Davao-Agusan National Highway(Panacan)">
+        <rtept lat="7.15271" lon="125.65856"/>
+        <rtept lat="7.15317" lon="125.65833"/>
+</rte> 
+
+
+<rte name= "Panacan Bridge">
+        <rtept lat="7.15317" lon="125.65833"/>
+        <rtept lat="7.15339" lon="125.65823"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Panacan)">
+        <rtept lat="7.15339" lon="125.65823"/>
+        <rtept lat="7.15388" lon="125.65799"/>
+        <rtept lat="7.15441" lon="125.65775"/>
+        <rtept lat="7.15444" lon="125.65773"/>
+</rte>
+
+
+
+<rte name= "Davao-Agusan National Highway(Panacan)">
+        <rtept lat="7.15444" lon="125.65773"/>
+        <rtept lat="7.15494" lon="125.65752"/>
+        <rtept lat="7.15525" lon="125.65743"/>
+        <rtept lat="7.15552" lon="125.65740"/>
+        <rtept lat="7.15707" lon="125.65737"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Panacan)">
+        <rtept lat="7.15707" lon="125.65737"/>
+        <rtept lat="7.15895" lon="125.65734"/>
+        <rtept lat="7.16149" lon="125.65726"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Panacan)">
+        <rtept lat="7.16149" lon="125.65726"/>
+        <rtept lat="7.16276" lon="125.65721"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Panacan)">
+        <rtept lat="7.16276" lon="125.65721"/>
+        <rtept lat="7.16340" lon="125.65719"/>
+        <rtept lat="7.16452" lon="125.65716"/>
+        <rtept lat="7.16492" lon="125.65714"/>
+        <rtept lat="7.16522" lon="125.65711"/>
+        <rtept lat="7.16565" lon="125.65704"/>
+        <rtept lat="7.16601" lon="125.65694"/>
+        <rtept lat="7.16745" lon="125.65650"/>
+        <rtept lat="7.16833" lon="125.65622"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Panacan)">
+        <rtept lat="7.16833" lon="125.65622"/>
+        <rtept lat="7.16872" lon="125.65610"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Panacan)">
+        <rtept lat="7.16872" lon="125.65610"/>
+        <rtept lat="7.16878" lon="125.65608"/>
+        <rtept lat="7.17049" lon="125.65555"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Panacan)">
+        <rtept lat="7.17049" lon="125.65555"/>
+        <rtept lat="7.17107" lon="125.65537"/>
+</rte>
+
+
+
+<rte name= "Davao-Agusan National Highway(Panacan)">
+        <rtept lat="7.17107" lon="125.65537"/>
+        <rtept lat="7.17186" lon="125.65512"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Panacan)">
+        <rtept lat="7.17186" lon="125.65512"/>
+        <rtept lat="7.17284" lon="125.65482"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Panacan)">
+        <rtept lat="7.17284" lon="125.65482"/>
+        <rtept lat="7.17307" lon="125.65475"/>
+        <rtept lat="7.17375" lon="125.65454"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Panacan)">
+        <rtept lat="7.17375" lon="125.65454"/>
+        <rtept lat="7.17387" lon="125.65450"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Panacan)">
+        <rtept lat="7.17387" lon="125.65450"/>
+        <rtept lat="7.17534" lon="125.65405"/>
+        <rtept lat="7.17613" lon="125.65379"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Panacan)">
+        <rtept lat="7.17613" lon="125.65379"/>
+        <rtept lat="7.17712" lon="125.65348"/>
+        <rtept lat="7.17719" lon="125.65345"/>
+</rte>
+
+
+<rte name= "Ilang Bridge">
+        <rtept lat="7.17719" lon="125.65345"/>
+        <rtept lat="7.17751" lon="125.65334"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Panacan)">
+        <rtept lat="7.17751" lon="125.65334"/>
+        <rtept lat="7.17781" lon="125.65323"/>
+</rte>
+
+
+
+<rte name= "Davao-Agusan National Highway(Panacan)">
+        <rtept lat="7.17781" lon="125.65323"/>
+        <rtept lat="7.17872" lon="125.65293"/>
+</rte>
+
+
+
+<rte name= "Davao-Agusan National Highway(Tibungco)"> 
+        <rtept lat="7.17872" lon="125.65293"/>
+        <rtept lat="7.17937" lon="125.65269"/>
+        <rtept lat="7.18016" lon="125.65239"/>
+        <rtept lat="7.18065" lon="125.65221"/>
+        <rtept lat="7.18124" lon="125.65201"/>
+        <rtept lat="7.18148" lon="125.65193"/>
+        <rtept lat="7.18182" lon="125.65180"/>
+        <rtept lat="7.18203" lon="125.65173"/>
+</rte>
+
+
+
+<rte name= "Davao-Agusan National Highway(Tibungco)"> 
+        <rtept lat="7.18203" lon="125.65173"/>
+        <rtept lat="7.18264" lon="125.65151"/>
+        <rtept lat="7.18328" lon="125.65126"/>
+        <rtept lat="7.18347" lon="125.65120"/>
+        <rtept lat="7.18377" lon="125.65109"/>
+        <rtept lat="7.18395" lon="125.65102"/>
+        <rtept lat="7.18409" lon="125.65098"/>
+</rte>
+
+
+
+<rte name= "Davao-Agusan National Highway(Tibungco)"> 
+        <rtept lat="7.18409" lon="125.65098"/>
+        <rtept lat="7.18415" lon="125.65095"/>
+        <rtept lat="7.18425" lon="125.65092"/>
+        <rtept lat="7.18433" lon="125.65089"/>
+        <rtept lat="7.18442" lon="125.65086"/>
+        <rtept lat="7.18457" lon="125.65080"/>
+</rte>
+
+
+
+<rte name= "Davao-Agusan National Highway(Tibungco)"> 
+        <rtept lat="7.18457" lon="125.65080"/>
+        <rtept lat="7.18470" lon="125.65076"/>
+        <rtept lat="7.18498" lon="125.65067"/>
+        <rtept lat="7.18505" lon="125.65064"/>
+</rte>
+
+
+
+<rte name= "Davao-Agusan National Highway(Tibungco)"> 
+        <rtept lat="7.18505" lon="125.65064"/>
+        <rtept lat="7.18518" lon="125.65060"/>
+        <rtept lat="7.18533" lon="125.65054"/>
+</rte>
+
+
+
+<rte name= "Davao-Agusan National Highway(Tibungco)"> 
+        <rtept lat="7.18533" lon="125.65054"/>
+        <rtept lat="7.18583" lon="125.65036"/>
+        <rtept lat="7.18592" lon="125.65033"/>
+        <rtept lat="7.18611" lon="125.65026"/>
+
+        <rtept lat="7.18680" lon="125.65002"/>
+        <rtept lat="7.18704" lon="125.64993"/>
+        <rtept lat="7.18714" lon="125.64990"/>
+        <rtept lat="7.18731" lon="125.64983"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Tibungco)"> 
+        <rtept lat="7.18731" lon="125.64983"/>
+        <rtept lat="7.18787" lon="125.64964"/>
+        <rtept lat="7.18901" lon="125.64923"/>
+</rte>
+
+
+
+<rte name= "Davao-Agusan National Highway(Tibungco)"> 
+        <rtept lat="7.18901" lon="125.64923"/>
+        <rtept lat="7.18963" lon="125.64901"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Tibungco)"> 
+        <rtept lat="7.18963" lon="125.64901"/>
+        <rtept lat="7.19025" lon="125.64879"/>
+        <rtept lat="7.19055" lon="125.64868"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Tibungco)"> 
+        <rtept lat="7.19055" lon="125.64868"/>
+        <rtept lat="7.19134" lon="125.64840"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Tibungco)"> 
+        <rtept lat="7.19134" lon="125.64840"/>
+        <rtept lat="7.19157" lon="125.64832"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Tibungco)"> 
+        <rtept lat="7.19157" lon="125.64832"/>
+        <rtept lat="7.19166" lon="125.64829"/>
+        <rtept lat="7.19204" lon="125.64821"/>
+        <rtept lat="7.19235" lon="125.64815"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Tibungco)"> 
+        <rtept lat="7.19235" lon="125.64815"/>
+        <rtept lat="7.19242" lon="125.64813"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Tibungco)"> 
+        <rtept lat="7.19242" lon="125.64813"/>
+        <rtept lat="7.19295" lon="125.64804"/>
+</rte>
+
+
+
+<rte name= "Davao-Agusan National Highway(Tibungco)"> 
+        <rtept lat="7.19295" lon="125.64804"/>
+        <rtept lat="7.19382" lon="125.64794"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Tibungco)">     
+        <rtept lat="7.19382" lon="125.64794"/>
+        <rtept lat="7.19403" lon="125.64791"/>
+</rte>
+
+
+
+<rte name= "Davao-Agusan National Highway(Tibungco)">     
+        <rtept lat="7.19403" lon="125.64791"/>
+        <rtept lat="7.19490" lon="125.64779"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Tibungco)">     
+        <rtept lat="7.19490" lon="125.64779"/>
+        <rtept lat="7.19537" lon="125.64774"/>
+</rte>
+
+
+
+<rte name= "Davao-Agusan National Highway(Tibungco)">
+        <rtept lat="7.19537" lon="125.64774"/>
+        <rtept lat="7.19712" lon="125.64755"/>       
+</rte>
+
+
+
+<rte name= "Davao-Agusan National Highway(Tibungco)">
+        <rtept lat="7.19712" lon="125.64755"/>       
+        <rtept lat="7.19880" lon="125.64735"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Tibungco)">
+        <rtept lat="7.19880" lon="125.64735"/>
+        <rtept lat="7.20003" lon="125.64718"/>
+        <rtept lat="7.20403" lon="125.64635"/>
+</rte>
+
+
+
+<rte name= "Davao-Agusan National Highway(Bunawan)">
+        <rtept lat="7.20403" lon="125.64635"/>
+        <rtept lat="7.20636" lon="125.64589"/>
+</rte>
+
+
+
+<rte name= "Davao-Agusan National Highway(Bunawan)">
+        <rtept lat="7.20636" lon="125.64589"/>
+        <rtept lat="7.20648" lon="125.64586"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Bunawan)">
+        <rtept lat="7.20648" lon="125.64586"/>
+        <rtept lat="7.20953" lon="125.64527"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Bunawan)">
+        <rtept lat="7.20953" lon="125.64527"/>
+        <rtept lat="7.21042" lon="125.64510"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Bunawan)">
+        <rtept lat="7.21042" lon="125.64510"/>
+        <rtept lat="7.21080" lon="125.64503"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Bunawan)">
+        <rtept lat="7.21080" lon="125.64503"/>
+        <rtept lat="7.21153" lon="125.64489"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Bunawan)">
+        <rtept lat="7.21153" lon="125.64489"/>
+        <rtept lat="7.21259" lon="125.64467"/>
+        <rtept lat="7.21372" lon="125.64445"/>
+        <rtept lat="7.21485" lon="125.64422"/>
+        <rtept lat="7.21541" lon="125.64410"/>
+        <rtept lat="7.21652" lon="125.64378"/>
+        <rtept lat="7.21695" lon="125.64363"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Bunawan)">
+        <rtept lat="7.21695" lon="125.64363"/>
+        <rtept lat="7.22261" lon="125.64161"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Bunawan)">
+        <rtept lat="7.22261" lon="125.64161"/>
+        <rtept lat="7.22384" lon="125.64116"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Bunawan)">
+        <rtept lat="7.22384" lon="125.64116"/>
+        <rtept lat="7.22423" lon="125.64101"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Bunawan)">
+        <rtept lat="7.22423" lon="125.64101"/>
+        <rtept lat="7.22481" lon="125.64080"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Bunawan)">
+        <rtept lat="7.22481" lon="125.64080"/>
+        <rtept lat="7.22552" lon="125.64054"/>
+</rte>
+
+
+
+<rte name= "Davao-Agusan National Highway(Bunawan)">
+        <rtept lat="7.22552" lon="125.64054"/>
+        <rtept lat="7.22724" lon="125.63996"/>
+        <rtept lat="7.22767" lon="125.63989"/>
+        <rtept lat="7.22833" lon="125.63996"/>
+        <rtept lat="7.22912" lon="125.64018"/>
+        <rtept lat="7.23096" lon="125.64074"/>
+        <rtept lat="7.23127" lon="125.64084"/>
+</rte>
+
+
+
+<rte name= "Davao-Agusan National Highway(Bunawan)">
+        <rtept lat="7.23127" lon="125.64084"/>
+        <rtept lat="7.23162" lon="125.64095"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Bunawan)">
+        <rtept lat="7.23162" lon="125.64095"/>
+        <rtept lat="7.23297" lon="125.64138"/>
+        <rtept lat="7.23389" lon="125.64166"/>
+</rte>
+
+
+
+<rte name= "Davao-Agusan National Highway(Bunawan)">
+        <rtept lat="7.23389" lon="125.64166"/>
+        <rtept lat="7.23580" lon="125.64226"/>
+</rte>
+
+
+
+<rte name= "Davao-Agusan National Highway(Bunawan)">
+        <rtept lat="7.23580" lon="125.64226"/>
+        <rtept lat="7.23595" lon="125.64230"/>
+        <rtept lat="7.23607" lon="125.64237"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Bunawan)">
+        <rtept lat="7.23607" lon="125.64237"/>
+        <rtept lat="7.23643" lon="125.64255"/>
+        <rtept lat="7.23676" lon="125.64289"/>
+        <rtept lat="7.23699" lon="125.64330"/>
+        <rtept lat="7.23711" lon="125.64362"/>
+        <rtept lat="7.23718" lon="125.64385"/>
+</rte>
+
+
+
+    <rte name= "Davao-Agusan National Highway(Lasang)">
+        <rtept lat="7.23718" lon="125.64385"/>
+        <rtept lat="7.23734" lon="125.64433"/>
+        <rtept lat="7.23762" lon="125.64517"/>
+        <rtept lat="7.23781" lon="125.64565"/>
+    </rte>
+
+
+
+    <rte name= "Davao-Agusan National Highway(Lasang)">
+        <rtept lat="7.23781" lon="125.64565"/>
+        <rtept lat="7.23802" lon="125.64594"/>
+        <rtept lat="7.23804" lon="125.64598"/>
+        <rtept lat="7.23833" lon="125.64622"/>
+        <rtept lat="7.23865" lon="125.64641"/>
+        <rtept lat="7.23931" lon="125.64664"/>
+    </rte>
+
+
+
+    <rte name= "Davao-Agusan National Highway(Lasang)">
+        <rtept lat="7.23931" lon="125.64664"/>
+        <rtept lat="7.24076" lon="125.64701"/>
+    </rte>
+
+
+
+    <rte name= "Davao-Agusan National Highway(Lasang)">
+        <rtept lat="7.24076" lon="125.64701"/>
+        <rtept lat="7.24232" lon="125.64742"/>
+        <rtept lat="7.24330" lon="125.64768"/>
+    </rte>
+
+
+    <rte name= "Davao-Agusan National Highway(Lasang)">
+        <rtept lat="7.24330" lon="125.64768"/>
+        <rtept lat="7.25318" lon="125.65029"/>
+        <rtept lat="7.25521" lon="125.65083"/>
+    </rte>
+
+
+    <rte name= "Davao-Agusan National Highway(Lasang)">
+        <rtept lat="7.25521" lon="125.65083"/>
+        <rtept lat="7.25794" lon="125.65155"/>
+        <rtept lat="7.25859" lon="125.65193"/>
+    </rte>
+
+
+    <rte name= "Davao-Agusan National Highway(Lasang)">
+        <rtept lat="7.25859" lon="125.65193"/>
+        <rtept lat="7.25913" lon="125.65249"/>
+        <rtept lat="7.26487" lon="125.66119"/>
+        <rtept lat="7.26691" lon="125.66434"/>
+    </rte>
+
+
+   <rte name= "Davao-Agusan National Highway(Lasang)">
+        <rtept lat="7.26691" lon="125.66434"/>
+        <rtept lat="7.26708" lon="125.66461"/>
+        <rtept lat="7.26713" lon="125.66468"/>
+    </rte>
+
+
+
+<rte name= "Davao-Agusan National Highway(Panabo)">
+        <rtept lat="7.26713" lon="125.66468"/>
+        <rtept lat="7.26759" lon="125.66539"/>
+        <rtept lat="7.26800" lon="125.66605"/>
+        <rtept lat="7.26817" lon="125.66629"/>
+        <rtept lat="7.26832" lon="125.66649"/>
+        <rtept lat="7.26849" lon="125.66669"/>
+        <rtept lat="7.26866" lon="125.66687"/>
+</rte>
+
+
+
+<rte name= "Davao-Agusan National Highway(Panabo)">
+        <rtept lat="7.26866" lon="125.66687"/>
+        <rtept lat="7.26872" lon="125.66694"/>
+        <rtept lat="7.26896" lon="125.66712"/>
+
+
+        <rtept lat="7.26928" lon="125.66730"/>
+        <rtept lat="7.26954" lon="125.66743"/>
+        <rtept lat="7.26976" lon="125.66752"/>
+
+        <rtept lat="7.26984" lon="125.66759"/>
+        <rtept lat="7.27043" lon="125.66784"/>
+        <rtept lat="7.27082" lon="125.66801"/>
+</rte>
+
+
+
+<rte name= "Davao-Agusan National Highway(Panabo)">
+        <rtept lat="7.27082" lon="125.66801"/>
+        <rtept lat="7.27192" lon="125.66847"/>
+        <rtept lat="7.27253" lon="125.66872"/>
+        <rtept lat="7.27466" lon="125.66962"/>
+</rte>
+
+
+
+<rte name= "Davao-Agusan National Highway(Panabo)">
+        <rtept lat="7.27466" lon="125.66962"/>
+        <rtept lat="7.27523" lon="125.66986"/>
+        <rtept lat="7.27591" lon="125.67015"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Panabo)">
+        <rtept lat="7.27591" lon="125.67015"/>
+        <rtept lat="7.27701" lon="125.67061"/>
+        <rtept lat="7.27756" lon="125.67085"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Panabo)">
+        <rtept lat="7.27756" lon="125.67085"/>
+        <rtept lat="7.27811" lon="125.67107"/>
+</rte>
+
+
+
+<rte name= "Davao-Agusan National Highway(Panabo)">
+        <rtept lat="7.27811" lon="125.67107"/>
+        <rtept lat="7.27894" lon="125.67142"/>
+        <rtept lat="7.27939" lon="125.67162"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Panabo)">
+        <rtept lat="7.27939" lon="125.67162"/>
+        <rtept lat="7.28021" lon="125.67198"/>
+        <rtept lat="7.28101" lon="125.67233"/>
+        <rtept lat="7.28180" lon="125.67266"/>
+        <rtept lat="7.28189" lon="125.67266"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Panabo)">
+        <rtept lat="7.28189" lon="125.67266"/>
+        <rtept lat="7.28332" lon="125.67326"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Panabo)">
+        <rtept lat="7.28332" lon="125.67326"/>
+        <rtept lat="7.28456" lon="125.67378"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Panabo)">
+        <rtept lat="7.28456" lon="125.67378"/>
+        <rtept lat="7.28530" lon="125.67409"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Panabo)">
+        <rtept lat="7.28530" lon="125.67409"/>
+        <rtept lat="7.28554" lon="125.67419"/>
+        <rtept lat="7.28564" lon="125.67427"/>
+        <rtept lat="7.28682" lon="125.67478"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Panabo)">
+        <rtept lat="7.28682" lon="125.67478"/>
+        <rtept lat="7.28711" lon="125.67490"/>
+        <rtept lat="7.28923" lon="125.67581"/>
+        <rtept lat="7.28979" lon="125.67605"/>
+</rte>
+
+
+
+<rte name= "Davao-Agusan National Highway(Panabo)">
+        <rtept lat="7.28979" lon="125.67605"/>
+        <rtept lat="7.29023" lon="125.67624"/>
+        <rtept lat="7.29121" lon="125.67667"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Panabo)">
+        <rtept lat="7.29121" lon="125.67667"/>
+        <rtept lat="7.29164" lon="125.67685"/>
+        <rtept lat="7.29224" lon="125.67711"/>
+        <rtept lat="7.29291" lon="125.67739"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Panabo)">
+        <rtept lat="7.29291" lon="125.67739"/>
+        <rtept lat="7.29359" lon="125.67768"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Panabo)">
+        <rtept lat="7.29359" lon="125.67768"/>
+        <rtept lat="7.29403" lon="125.67787"/>
+        <rtept lat="7.29470" lon="125.67816"/>
+        <rtept lat="7.29539" lon="125.67845"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Panabo)">
+        <rtept lat="7.29539" lon="125.67845"/>
+        <rtept lat="7.29594" lon="125.67868"/>
+        <rtept lat="7.29649" lon="125.67892"/>
+        <rtept lat="7.29743" lon="125.67932"/>
+</rte>
+
+
+
+<rte name= "Davao-Agusan National Highway(Panabo)">
+        <rtept lat="7.29743" lon="125.67932"/>
+        <rtept lat="7.29760" lon="125.67939"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Panabo)">
+        <rtept lat="7.29760" lon="125.67939"/>
+        <rtept lat="7.29816" lon="125.67963"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Panabo)">
+        <rtept lat="7.29816" lon="125.67963"/>
+        <rtept lat="7.29880" lon="125.67990"/>
+</rte>
+
+
+
+<rte name= "Davao-Agusan National Highway(Panabo)">
+        <rtept lat="7.29880" lon="125.67990"/>
+        <rtept lat="7.29911" lon="125.68004"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Panabo)">
+        <rtept lat="7.29911" lon="125.68004"/>
+        <rtept lat="7.29980" lon="125.68035"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Panabo)">
+        <rtept lat="7.29980" lon="125.68035"/>
+        <rtept lat="7.30013" lon="125.68048"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Panabo)">
+        <rtept lat="7.30013" lon="125.68048"/>
+        <rtept lat="7.30024" lon="125.68053"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Panabo)">
+        <rtept lat="7.30024" lon="125.68053"/>
+        <rtept lat="7.30090" lon="125.68081"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Panabo)">
+        <rtept lat="7.30090" lon="125.68081"/>
+        <rtept lat="7.30244" lon="125.68147"/>
+</rte>
+
+
+<rte name= "Davao-Agusan National Highway(Panabo)">
+        <rtept lat="7.30244" lon="125.68147"/>
+        <rtept lat="7.30257" lon="125.68153"/>
+</rte>
+
+</gpx>
+

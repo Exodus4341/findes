@@ -1,0 +1,85 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="GDAL 1.6.3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+
+<rte name="Margarita Road">
+  <rtept lat="7.098518600000000" lon="125.623458799999995"/>
+  <rtept lat="7.099376500000000" lon="125.623127600000004"/>
+  <rtept lat="7.099513100000000" lon="125.623083899999997"/>
+  <rtept lat="7.099617700000000" lon="125.623076400000002"/>
+  <rtept lat="7.099680400000000" lon="125.623096200000006"/>
+  <rtept lat="7.099792900000000" lon="125.623154299999996"/>
+  <rtept lat="7.099916000000000" lon="125.623194600000005"/>
+  <rtept lat="7.100027400000000" lon="125.623204700000002"/>
+  <rtept lat="7.100127800000000" lon="125.623179300000004"/>
+  <rtept lat="7.100728100000000" lon="125.622759099999996"/>
+  <rtept lat="7.101244000000000" lon="125.622425100000001"/>
+  <rtept lat="7.101677200000000" lon="125.622135400000005"/>
+  <rtept lat="7.101776300000000" lon="125.622079299999996"/>
+  <rtept lat="7.101929300000000" lon="125.622065399999997"/>
+  <rtept lat="7.102073400000000" lon="125.622098500000007"/>
+</rte>
+<rte name="South Square St" depth="1">
+  <rtept lat="7.102073400000000" lon="125.622098500000007"/>
+  <rtept lat="7.102370300000000" lon="125.621897500000003"/>
+</rte>
+<rte name="1st Ave." depth="2">
+  <rtept lat="7.102370300000000" lon="125.621897500000003"/>
+  <rtept lat="7.103352400000000" lon="125.622926699999994"/>
+</rte>
+<rte name="South Square St" depth="2">
+  <rtept lat="7.102370300000000" lon="125.621897500000003"/>
+  <rtept lat="7.102647900000000" lon="125.621705800000001"/>
+</rte>
+<rte name="Second Ave." depth="3">
+  <rtept lat="7.102647900000000" lon="125.621705800000001"/>
+  <rtept lat="7.103532300000000" lon="125.622636799999995"/>
+</rte>
+<rte name="South Square St" depth="3">
+  <rtept lat="7.102647900000000" lon="125.621705800000001"/>
+  <rtept lat="7.102942700000000" lon="125.621502100000001"/>
+</rte>
+<rte name="Third Ave." depth="4">
+  <rtept lat="7.102942700000000" lon="125.621502100000001"/>
+  <rtept lat="7.103715900000000" lon="125.622340699999995"/>
+  <rtept lat="7.103912600000000" lon="125.622553999999994"/>
+  <rtept lat="7.104140400000000" lon="125.622800999999995"/>
+</rte>
+<rte name="South Square St" depth="4">
+  <rtept lat="7.102942700000000" lon="125.621502100000001"/>
+  <rtept lat="7.103213200000000" lon="125.621315300000006"/>
+</rte>
+<rte name="West Square St" depth="5">
+  <rtept lat="7.103213200000000" lon="125.621315300000006"/>
+  <rtept lat="7.104221800000000" lon="125.622378200000000"/>
+</rte>
+<rte name="South Square St" depth="5">
+  <rtept lat="7.103213200000000" lon="125.621315300000006"/>
+  <rtept lat="7.103371000000000" lon="125.621206200000003"/>
+</rte><rte name="East Square St" depth="1">
+  <rtept lat="7.102073400000000" lon="125.622098500000007"/>
+  <rtept lat="7.103163300000000" lon="125.623231399999995"/>
+</rte> 
+<rte name="South Park Ave." depth="2">
+  <rtept lat="7.103163300000000" lon="125.623231399999995"/>
+  <rtept lat="7.103352400000000" lon="125.622926699999994"/>
+  <rtept lat="7.103532300000000" lon="125.622636799999995"/>
+  <rtept lat="7.103715900000000" lon="125.622340699999995"/>
+</rte>
+<rte name="East Square St" depth="2">
+  <rtept lat="7.103163300000000" lon="125.623231399999995"/>
+  <rtept lat="7.103411300000000" lon="125.623496200000005"/>
+</rte>
+<rte name="North Park Ave." depth="3">
+  <rtept lat="7.103411300000000" lon="125.623496200000005"/>
+  <rtept lat="7.103912600000000" lon="125.622553999999994"/>
+</rte>
+<rte name="East Square St" depth="3">
+  <rtept lat="7.103411300000000" lon="125.623496200000005"/>
+  <rtept lat="7.103666900000000" lon="125.623769199999998"/>
+</rte>
+<rte name="North Square St" depth="4">
+  <rtept lat="7.104221800000000" lon="125.622378200000000"/>
+  <rtept lat="7.104140400000000" lon="125.622800999999995"/>
+  <rtept lat="7.103666900000000" lon="125.623769199999998"/>
+</rte>
+</gpx>

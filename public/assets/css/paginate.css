@@ -1,0 +1,45 @@
+#status, #paginate {
+			display: inline-block;
+                        font-size: 12px;
+		}
+		#status {
+			margin: 10px 0px;
+			color: #999;
+			float: left;
+		}
+		#status p {
+			margin: 0px;
+		}
+		#status em {
+			font-size: 11px;
+			color: #777;
+			font-style: normal;
+		}
+		#paginate {
+			float: left;
+			margin: 10px 0px;
+		}
+		#paginate .items_per_page label {
+			color: #999;
+		}
+		#paginate a {
+			margin: 0px 5px;
+			background-color: #0DC8B0;
+			padding: 2px 5px;
+			text-decoration: none;
+			color: #effbfc;
+			text-shadow: 0px 1px 0px #0DC8B0;
+			border: 1px solid #18F0D4;
+		}
+		#paginate a.current {
+			background-color: #18F0D4;
+			color: #fff;
+			cursor: default;
+		}
+		#paginate a.disabled {
+			color: #bbb;
+			background-color: #999;
+			border-color: #555;
+			text-shadow: none;
+			cursor: default;
+		}

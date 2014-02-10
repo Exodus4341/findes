@@ -1,0 +1,186 @@
+
+		body { margin: 50px; }
+	
+		#main_container{
+		font-size: 1.4em;
+		}
+
+		#map {
+   	 	width: 940px; height: 305px;
+   	 	-webkit-border-radius: 6px;
+     	-moz-border-radius: 6px;
+          border-radius: 6px;
+          /*box-shadow: 5px 5px 5px #888888;*/
+		}
+
+    #map1 {
+      width: 836px; height: 356px;
+      -webkit-border-radius: 6px;
+      -moz-border-radius: 6px;
+          border-radius: 6px;
+          /*box-shadow: 5px 5px 5px #888888;*/
+    }
+
+		.image{
+			      /*-webkit-border-radius: 6px;
+            -moz-border-radius: 6px;
+             border-radius: 6px;*/
+             box-shadow: 1px 1px 8px 3px #C4C4C4;
+             border:4px solid #EBEBEB;
+		}
+
+		.Overlay { position: relative; left: 50px; top: 80px; 
+             right: 0px; height: 3px; z-index:10 }
+
+        .logo{
+        	position: relative; left:-30px; top:-15px; 
+             right: 0px; height: 100px; z-index: 100 
+        }
+
+
+        .logo1{
+        	position: relative; left:-35px; top:-25px; 
+             right: 0px; height: 35px;  z-index: 100
+        }
+
+        .chulukoy{
+        	height: 50px;	
+        }
+
+        .frame-top{
+        	position: relative; left:-30px; top:70px; 
+            right: 0px;height: 40px;
+        }
+
+        .frame-top-landmark{
+          position: relative; left:-40px; top:20px; 
+            right: 0px;height: 40px;
+        }
+
+       .fulllogo{
+       		position: relative; left:5px; top:-40px; 
+            right: 0px; height: 110px;  z-index: 100
+       }
+
+       .strip{
+       		position: relative; left:5px; top:-105px; 
+            right: 0px; height: 28px;  z-index: 10
+       }
+
+       .frame-stripe{
+        	position: relative; left:0px; top:0px; 
+            right: 0px;height: 25px; width: 300px;
+        }
+
+       .menu-icon{
+       	height: 20px;
+       }
+
+       .menu-icon1{
+        height: 23px;
+        float:right;
+        margin-left: 10px;
+       }
+
+       .menuSpacing{
+        margin-right: 70px;
+       }
+       
+       #bck{
+       	background-image: url('assets/img/bck.png');
+       	height: auto; width: 300px;
+       }
+
+       #c-img{
+       	background-color:#FFFFFF; 
+       	width:465px;
+       	padding:15px 15px 15px 15px;
+        box-shadow: -1px 0px 8px -1px #C4C4C4;
+       }
+
+        #c-img1{
+       	background-color:#FFFFFF; 
+       	width:400px;
+       	padding:5px;
+        padding:15px 15px 15px 15px;
+        box-shadow: -1px 0px 8px -1px #C4C4C4;
+        position:relative; 
+        float:right;
+       }
+        
+       .t-name{
+        border-bottom: 1px groove gray;
+       	width:450px;
+       	height: 30px;
+        color:#2E2E2E;
+        padding: 5px 5px 5px 5px;
+        margin-top: -10px;
+       }
+
+       .t-name p{
+        font-size: 20px;
+        padding-top:7px;
+        font-weight:bold;
+       }
+
+        .t-name1{
+        border-bottom: 1px groove gray;
+       	width:385px;
+       	height: 30px;
+       	margin-top: -10px;
+        color:#2E2E2E;
+        padding: 5px 5px 5px 5px;
+       }
+
+       .t-name1 p{
+        font-size: 20px;
+        padding-top:7px;
+        font-weight:bold;
+       }
+
+	   .t-name2{
+       	background-color:#0D6C6C; 
+       	width:300px;
+       	height: 40px;
+       	color:white;
+       	-webkit-border-radius: 0px 6px 6px 0px;
+     		-moz-border-radius: 6px 6px 6px 0px;
+          	border-radius: 0px 6px 6px 0px;
+       }       
+
+       .frame-stripe1{
+        	position: relative; left:0px; top:5px; 
+            right: 0px;height: 30px; width: 300px;
+            z-index: 0; background-repeat:repeat-x;
+        }
+
+       .t-cont{
+       	width:400px;
+       	padding:5px 5px 5px 35px;
+       	-webkit-border-radius: 0px 6px 6px 0px;
+     		-moz-border-radius: 6px 6px 6px 0px;
+          	border-radius: 0px 6px 6px 0px;
+       }
+
+.error{
+  color: red;
+}
+
+.inner-cont{
+  padding: 5px 5px 5px 10px;
+}
+
+#upload_container{
+  padding: 20px 20px 20px 20px;
+}
+
+span.stars, span.stars span {
+      display: block;
+      background: url('../img/stars.png') 0 -16px repeat-x;
+      width: 80px;
+      height: 16px;
+    }
+  
+span.stars span {
+      background-position: 0 0;
+    }
