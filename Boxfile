@@ -13,6 +13,9 @@ web1:
     - curl
     - mbstring
 
+  after_build:
+- "if [ ! -f composer.phar ]; then curl -s http://getcomposer.org/installer | php; fi; php composer.phar install --prefer-source"
+
   php_error_reporting: 'E_ALL'
   php_display_errors: On
   php_short_open_tag: Off
