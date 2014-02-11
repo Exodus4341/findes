@@ -1,7 +1,4 @@
 web1:
-  before_deploy:
-    - "php composer.phar self-update"
-
   shared_writable_dirs:
     - fuel/app/cache
     - fuel/app/logs
