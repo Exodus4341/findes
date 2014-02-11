@@ -1,11 +1,5 @@
-global:
-  env:
-    - FUEL_ENV: "production"
-
 web1:
-
   before_deploy:
-    - "php oil refine migrate"
     - "php composer.phar update"
 
   shared_writable_dirs:
