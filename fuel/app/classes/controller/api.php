@@ -28,7 +28,7 @@ class Controller_Api extends Controller_Rest{
 	$db = 'findes';
 	$mysqli = new mysqli($host,$user,$passwd,$db);
 
-	$landmarks_query = "SELECT * FROM landmarks WHERE updated_at > '$datetime'";
+	$landmarks_query = "SELECT * FROM landmarks WHERE updated_at > '$datetime' ORDER BY updated_at DESC";
 	$landmarks = $mysqli->query($landmarks_query);
 	$landmarks_result = $landmarks->fetch_all(MYSQLI_ASSOC);
 
@@ -53,10 +53,6 @@ class Controller_Api extends Controller_Rest{
 	}
 	
 	else{
-	$landmarks_query = "SELECT * FROM landmarks";
-	$landmarks = $mysqli->query($landmarks_query);
-	$landmarks_result = $landmarks->fetch_all(MYSQLI_ASSOC);
-
 	$writer = new XMLWriter();
 	    $writer->openMemory();
 
@@ -336,19 +332,19 @@ class Controller_Api extends Controller_Rest{
     $db = 'findes';
     $mysqli = new mysqli($host,$user,$passwd,$db);
 
-	$query_configs = "SELECT * FROM configs WHERE updated_at > '$datetime'";
+	$query_configs = "SELECT * FROM configs WHERE updated_at > '$datetime' ORDER BY updated_at DESC";
     $configs = $mysqli->query($query_configs);   
     $configs_result = $configs->fetch_all(MYSQLI_ASSOC);
 
-    $query_puvs = "SELECT * FROM puvs WHERE updated_at > '$datetime'";
+    $query_puvs = "SELECT * FROM puvs WHERE updated_at > '$datetime' ORDER BY updated_at DESC";
     $puvs = $mysqli->query($query_puvs);   
     $puvs_result = $puvs->fetch_all(MYSQLI_ASSOC);
 
-    $query_puvtypes = "SELECT * FROM puvtypes WHERE updated_at > '$datetime' ";
+    $query_puvtypes = "SELECT * FROM puvtypes WHERE updated_at > '$datetime' ORDER BY updated_at DESC";
     $puvtypes = $mysqli->query($query_puvtypes);   
     $puvtypes_result = $puvtypes->fetch_all(MYSQLI_ASSOC);
 
-    $query_directions = "SELECT * FROM directions WHERE updated_at > '$datetime'";
+    $query_directions = "SELECT * FROM directions WHERE updated_at > '$datetime' ORDER BY updated_at DESC";
     $directions = $mysqli->query($query_directions);   
     $directions_result = $directions->fetch_all(MYSQLI_ASSOC);
 
@@ -357,22 +353,6 @@ class Controller_Api extends Controller_Rest{
     	echo "";
     }
 	else{
-
-	$query_configs = "SELECT * FROM configs";
-    $configs = $mysqli->query($query_configs);   
-    $configs_result = $configs->fetch_all(MYSQLI_ASSOC);
-
-     $query_puvs = "SELECT * FROM puvs";
-    $puvs = $mysqli->query($query_puvs);   
-    $puvs_result = $puvs->fetch_all(MYSQLI_ASSOC);
-
-     $query_puvtypes = "SELECT * FROM puvtypes";
-    $puvtypes = $mysqli->query($query_puvtypes);   
-    $puvtypes_result = $puvtypes->fetch_all(MYSQLI_ASSOC);
-
-    $query_directions = "SELECT * FROM directions";
-    $directions = $mysqli->query($query_directions);   
-    $directions_result = $directions->fetch_all(MYSQLI_ASSOC);
 
 	$writer = new XMLWriter();
     $writer->openMemory();

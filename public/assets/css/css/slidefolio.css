@@ -73,7 +73,7 @@ margin-bottom:-20px;
 border-radius:0px !important;
 }
 .navbar-new {
-  background-color: rgba(13,108,108, 0.6);
+  background-color: rgba(0, 0, 0, 0.6);
 }
 .navbar-new .navbar-brand {
   color: #f1f1f1;
@@ -191,7 +191,7 @@ filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffffff', en
 /* Services */
 
 .services {
-   background: none repeat scroll 0 0 #084545;
+   background: none repeat scroll 0 0 #4D4D4D;
   padding: 50px 0;
   color: #eeeeee;
   width: 100%;
@@ -241,7 +241,7 @@ label.valid {
 			margin-top: 2px;
 		}
 .portfolio {
-background:#F0FFFF;
+background:#f1f1f1;
 }		
 /* gallery */
 .gallery {

@@ -49,7 +49,7 @@
 				   <div style="float:left;"><?php echo Html::img('assets/img/gravatar.png'); ?></div>
 
 				   <div style="margin-left:75px"><b><?php echo $comment->name ?></b><br>
-				   <span style="margin-left:10px; display:block;width:360px;word-wrap:break-word;"><?php echo $comment->message?></span><br>
+				   <span style="margin-left:10px;"><?php echo $comment->message?></span><br>
 				   <span style="font-size:11px;">
 				   		<i>Posted at: <i style="color:red"><?php echo date("F jS, Y / h:i", strtotime($comment->created_at));?></i></i></span></div>
 				 <p style="border-bottom:1px groove gray"></p>

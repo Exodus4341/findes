@@ -30,6 +30,9 @@
         overflow: auto;
       }
 
+      #googlemap {
+        margin-right: 100px;
+      }
 
       /*#control {
         background: #fff;
@@ -93,7 +96,7 @@ function calcRoute() {
   };
 
 
-  //alert(request.DirectionsStep);
+  alert(request.DirectionsStep);
   
   directionsService.route(request, function(response, status) {
     if (status == google.maps.DirectionsStatus.OK) {
