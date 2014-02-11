@@ -3,24 +3,24 @@
         "This file locks the dependencies of your project to a known state",
         "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file"
     ],
-    "hash": "5d1b34dfc1ce3b49e5921e51d0242bf3",
+    "hash": "fb99b31fea1024bc779672a18cccdf4f",
     "packages": [
         {
             "name": "fuelphp/upload",
-            "version": "2.0.1",
+            "version": "2.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/fuelphp/upload.git",
-                "reference": "6310108de98ffdbf1083612db5b15411fc140c90"
+                "reference": "2.0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/fuelphp/upload/zipball/6310108de98ffdbf1083612db5b15411fc140c90",
-                "reference": "6310108de98ffdbf1083612db5b15411fc140c90",
+                "url": "https://api.github.com/repos/fuelphp/upload/zipball/2.0",
+                "reference": "2.0",
                 "shasum": ""
             },
             "require": {
-                "php": ">=5.3"
+                "php": ">=5.3.3"
             },
             "require-dev": {
                 "mockery/mockery": "0.7.*"
@@ -28,10 +28,10 @@
             "type": "library",
             "autoload": {
                 "psr-0": {
-                    "Fuel\\Upload": "src/"
+                    "FuelPHP\\Upload": "src/"
                 }
             },
-            "notification-url": "https://packagist.org/downloads/",
+            "notification-url": "http://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -47,7 +47,7 @@
                 "file uploads",
                 "upload"
             ],
-            "time": "2013-10-11 21:42:58"
+            "time": "2013-05-02 14:27:26"
         },
         {
             "name": "monolog/monolog",
@@ -55,17 +55,17 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Seldaek/monolog.git",
-                "reference": "3295de82be06b3bbcd336983ddf8c50724430180"
+                "reference": "1.4.1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Seldaek/monolog/zipball/3295de82be06b3bbcd336983ddf8c50724430180",
-                "reference": "3295de82be06b3bbcd336983ddf8c50724430180",
+                "url": "https://api.github.com/repos/Seldaek/monolog/zipball/1.4.1",
+                "reference": "1.4.1",
                 "shasum": ""
             },
             "require": {
                 "php": ">=5.3.0",
-                "psr/log": "~1.0"
+                "psr/log": ">=1.0,<2.0"
             },
             "require-dev": {
                 "doctrine/couchdb": "dev-master",
@@ -90,7 +90,7 @@
                     "Monolog": "src/"
                 }
             },
-            "notification-url": "https://packagist.org/downloads/",
+            "notification-url": "http://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -116,13 +116,13 @@
             "version": "1.0.0",
             "source": {
                 "type": "git",
-                "url": "https://github.com/php-fig/log.git",
-                "reference": "fe0936ee26643249e916849d48e3a51d5f5e278b"
+                "url": "https://github.com/php-fig/log",
+                "reference": "1.0.0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/php-fig/log/zipball/fe0936ee26643249e916849d48e3a51d5f5e278b",
-                "reference": "fe0936ee26643249e916849d48e3a51d5f5e278b",
+                "url": "https://github.com/php-fig/log/archive/1.0.0.zip",
+                "reference": "1.0.0",
                 "shasum": ""
             },
             "type": "library",
@@ -131,7 +131,7 @@
                     "Psr\\Log\\": ""
                 }
             },
-            "notification-url": "https://packagist.org/downloads/",
+            "notification-url": "http://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
