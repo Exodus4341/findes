@@ -124,7 +124,7 @@
 					</div>
 				</div>
 				<div class="clearfix">
-					<?php //echo Form::label('Group', 'group'); ?>
+					
 
 					<div class="input">
 						<?php echo Form::input('group', Input::post('group', isset($user) ? $user->group : ''), array('class' => 'span4','type'=>'hidden')); ?>
@@ -140,7 +140,7 @@
 					</div>
 				</div>
 				<div class="clearfix">
-					<?php //echo Form::label('Profile fields', 'profile_fields'); ?>
+					
 
 					<div class="input">
 						<?php echo Form::input('profile_fields', Input::post('profile_fields', isset($user) ? $user->profile_fields : ''), array('class' => 'span8', 'rows' => 8, 'type' => 'hidden')); ?>
@@ -150,7 +150,7 @@
 				
 				
 				<div class="clearfix">
-					<?php //echo Form::label('Last login', 'last_login'); ?>
+					
 
 					<div class="input">
 						<?php echo Form::input('last_login', Input::post('last_login', isset($user) ? $user->last_login : ''), array('class' => 'span4', 'type' => 'hidden')); ?>
@@ -158,7 +158,7 @@
 					</div>
 				</div>
 				<div class="clearfix">
-					<?php// echo Form::label('Login hash', 'login_hash'); ?>
+					
 
 					<div class="input">
 						<?php echo Form::input('login_hash', Input::post('login_hash', isset($user) ? $user->login_hash : ''), array('class' => 'span4', 'type' => 'hidden')); ?>
