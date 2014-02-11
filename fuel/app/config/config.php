@@ -26,7 +26,8 @@ return array(
 	 */
 	//'base_url'  => 'http://localhost/finaldestination/public/',
 	//'base_url'  => 'http://192.168.49.1/finaldestination/public/',
-	'base_url'  => 'http://finaldestination.dev/',
+	//'base_url'  => 'http://finaldestination.dev/',
+	'base_url'  => 'http://findes.gopagoda.com/',
 
 	/**
 	 * url_suffix - Any suffix that needs to be added to
